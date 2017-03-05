@@ -10,9 +10,11 @@ import os
 import re
 import csv
 print("#################################################################################")
+
+
 print("Please Enter Data in the form of two columns, first column being String(e.g: Name), and the Second Column being Value (e.g: Integer)")
 filename = raw_input("Enter Dataset File path: ")
-predict_years = raw_input("Enter the number of years to predict: ")
+predict_years = raw_input("Enter the number of years  to predict: ")
 Current_years = raw_input("Enter the Current number of years: ")
 path = '/Users/tushar/Desktop/MobileApp/result.csv'
 
