@@ -1,0 +1,2001 @@
+NOC Code,Occupational Group,NOC Skill Level,Year,Nominees
+11,Legislators,0,01/01/2012 12:00:00 AM,0
+12,Senior government managers and officials,0,01/01/2012 12:00:00 AM,0
+13,"Senior managers - financial, communications and other business services",0,01/01/2012 12:00:00 AM,0
+14,"Senior managers - health, education, social and community services and membership organizations",0,01/01/2012 12:00:00 AM,0
+15,"Senior managers - trade, broadcasting and other services, n.e.c.",0,01/01/2012 12:00:00 AM,0
+16,"Senior managers - construction, transportation, production and utilities",0,01/01/2012 12:00:00 AM,1
+111,Financial managers,0,01/01/2012 12:00:00 AM,4
+112,Human resources managers,0,01/01/2012 12:00:00 AM,0
+113,Purchasing managers,0,01/01/2012 12:00:00 AM,0
+114,Other administrative services managers,0,01/01/2012 12:00:00 AM,3
+121,"Insurance, real estate and financial brokerage managers",0,01/01/2012 12:00:00 AM,1
+122,"Banking, credit and other investment managers",0,01/01/2012 12:00:00 AM,2
+124,"Advertising, marketing and public relations managers",0,01/01/2012 12:00:00 AM,4
+125,Other business services managers,0,01/01/2012 12:00:00 AM,0
+131,Telecommunication carriers managers,0,01/01/2012 12:00:00 AM,1
+132,Postal and courier services managers,0,01/01/2012 12:00:00 AM,0
+211,Engineering managers,0,01/01/2012 12:00:00 AM,4
+212,Architecture and science managers,0,01/01/2012 12:00:00 AM,0
+213,Computer and information systems managers,0,01/01/2012 12:00:00 AM,3
+311,Managers in health care,0,01/01/2012 12:00:00 AM,0
+411,Government managers - health and social policy development and program administration,0,01/01/2012 12:00:00 AM,0
+412,"Government managers - economic analysis, policy development and program administration",0,01/01/2012 12:00:00 AM,0
+413,Government managers - education policy development and program administration,0,01/01/2012 12:00:00 AM,0
+414,Other managers in public administration,0,01/01/2012 12:00:00 AM,1
+421,Administrators - post-secondary education and vocational training,0,01/01/2012 12:00:00 AM,0
+422,School principals and administrators of elementary and secondary education,0,01/01/2012 12:00:00 AM,0
+423,"Managers in social, community and correctional services",0,01/01/2012 12:00:00 AM,1
+431,Commissioned police officers,0,01/01/2012 12:00:00 AM,1
+432,Fire chiefs and senior firefighting officers,0,01/01/2012 12:00:00 AM,0
+433,Commissioned officers of the Canadian Forces,0,01/01/2012 12:00:00 AM,0
+511,"Library, archive, museum and art gallery managers",0,01/01/2012 12:00:00 AM,0
+512,"Managers - publishing, motion pictures, broadcasting and performing arts",0,01/01/2012 12:00:00 AM,0
+513,"Recreation, sports and fitness program and service directors",0,01/01/2012 12:00:00 AM,0
+601,Corporate sales managers,0,01/01/2012 12:00:00 AM,2
+621,Retail and wholesale trade managers,0,01/01/2012 12:00:00 AM,12
+631,Restaurant and food service managers,0,01/01/2012 12:00:00 AM,8
+632,Accommodation service managers,0,01/01/2012 12:00:00 AM,3
+651,"Managers in customer and personal services, n.e.c.",0,01/01/2012 12:00:00 AM,1
+711,Construction managers,0,01/01/2012 12:00:00 AM,4
+712,Home building and renovation managers,0,01/01/2012 12:00:00 AM,0
+714,Facility operation and maintenance managers,0,01/01/2012 12:00:00 AM,3
+731,Managers in transportation,0,01/01/2012 12:00:00 AM,4
+811,Managers in natural resources production and fishing,0,01/01/2012 12:00:00 AM,0
+821,Managers in agriculture,0,01/01/2012 12:00:00 AM,7
+822,Managers in horticulture,0,01/01/2012 12:00:00 AM,0
+823,Managers in aquaculture,0,01/01/2012 12:00:00 AM,0
+911,Manufacturing managers,0,01/01/2012 12:00:00 AM,2
+912,Utilities managers,0,01/01/2012 12:00:00 AM,0
+1111,Financial auditors and accountants,A,01/01/2012 12:00:00 AM,10
+1112,Financial and investment analysts,A,01/01/2012 12:00:00 AM,3
+1113,"Securities agents, investment dealers and brokers",A,01/01/2012 12:00:00 AM,0
+1114,Other financial officers,A,01/01/2012 12:00:00 AM,20
+1121,Human resources professionals,A,01/01/2012 12:00:00 AM,0
+1122,Professional occupations in business management consulting,A,01/01/2012 12:00:00 AM,2
+1123,"Professional occupations in advertising, marketing and public relations",A,01/01/2012 12:00:00 AM,0
+1211,"Supervisors, general office and administrative support workers",B,01/01/2012 12:00:00 AM,0
+1212,"Supervisors, finance and insurance office workers",B,01/01/2012 12:00:00 AM,2
+1213,"Supervisors, library, correspondence and related information workers",B,01/01/2012 12:00:00 AM,1
+1214,"Supervisors, mail and message distribution occupations",B,01/01/2012 12:00:00 AM,0
+1215,"Supervisors, supply chain, tracking and scheduling co-ordination occupations",B,01/01/2012 12:00:00 AM,2
+1221,Administrative officers,B,01/01/2012 12:00:00 AM,9
+1222,Executive assistants,B,01/01/2012 12:00:00 AM,0
+1223,Human resources and recruitment officers,B,01/01/2012 12:00:00 AM,1
+1224,Property administrators,B,01/01/2012 12:00:00 AM,3
+1225,Purchasing agents and officers,B,01/01/2012 12:00:00 AM,1
+1226,Conference and event planners,B,01/01/2012 12:00:00 AM,0
+1227,Court officers and justices of the peace,B,01/01/2012 12:00:00 AM,0
+1228,"Employment insurance, immigration, border services and revenue officers",B,01/01/2012 12:00:00 AM,1
+1241,Administrative assistants,B,01/01/2012 12:00:00 AM,1
+1242,Legal administrative assistants,B,01/01/2012 12:00:00 AM,0
+1243,Medical administrative assistants,B,01/01/2012 12:00:00 AM,0
+1251,"Court reporters, medical transcriptionists and related occupations",B,01/01/2012 12:00:00 AM,0
+1252,Health information management occupations,B,01/01/2012 12:00:00 AM,1
+1253,Records management technicians,B,01/01/2012 12:00:00 AM,0
+1254,Statistical officers and related research support occupations,B,01/01/2012 12:00:00 AM,2
+1311,Accounting technicians and bookkeepers,B,01/01/2012 12:00:00 AM,3
+1312,Insurance adjusters and claims examiners,B,01/01/2012 12:00:00 AM,0
+1313,Insurance underwriters,B,01/01/2012 12:00:00 AM,0
+1314,"Assessors, valuators and appraisers",B,01/01/2012 12:00:00 AM,0
+1315,"Customs, ship and other brokers",B,01/01/2012 12:00:00 AM,0
+1411,General office support workers,C,01/01/2012 12:00:00 AM,2
+1414,Receptionists,C,01/01/2012 12:00:00 AM,0
+1415,Personnel clerks,C,01/01/2012 12:00:00 AM,0
+1416,Court clerks,C,01/01/2012 12:00:00 AM,0
+1422,Data entry clerks,C,01/01/2012 12:00:00 AM,0
+1423,Desktop publishing operators and related occupations,C,01/01/2012 12:00:00 AM,0
+1431,Accounting and related clerks,C,01/01/2012 12:00:00 AM,16
+1432,Payroll clerks,C,01/01/2012 12:00:00 AM,0
+1434,"Banking, insurance and other financial clerks",C,01/01/2012 12:00:00 AM,4
+1435,Collectors,C,01/01/2012 12:00:00 AM,0
+1451,Library assistants and clerks,C,01/01/2012 12:00:00 AM,0
+1452,"Correspondence, publication and regulatory clerks",C,01/01/2012 12:00:00 AM,0
+1454,Survey interviewers and statistical clerks,C,01/01/2012 12:00:00 AM,1
+1511,"Mail, postal and related workers",C,01/01/2012 12:00:00 AM,0
+1512,Letter carriers,C,01/01/2012 12:00:00 AM,0
+1513,"Couriers, messengers and door-to-door distributors",C,01/01/2012 12:00:00 AM,0
+1521,Shippers and receivers,C,01/01/2012 12:00:00 AM,0
+1522,Storekeepers and partspersons,C,01/01/2012 12:00:00 AM,0
+1523,Production logistics co-ordinators,C,01/01/2012 12:00:00 AM,1
+1524,Purchasing and inventory control workers,C,01/01/2012 12:00:00 AM,1
+1525,Dispatchers,C,01/01/2012 12:00:00 AM,1
+1526,Transportation route and crew schedulers,C,01/01/2012 12:00:00 AM,0
+2111,Physicists and astronomers,A,01/01/2012 12:00:00 AM,0
+2112,Chemists,A,01/01/2012 12:00:00 AM,1
+2113,Geoscientists and oceanographers,A,01/01/2012 12:00:00 AM,0
+2114,Meteorologists and climatologists,A,01/01/2012 12:00:00 AM,0
+2115,Other professional occupations in physical sciences,A,01/01/2012 12:00:00 AM,0
+2121,Biologists and related scientists,A,01/01/2012 12:00:00 AM,0
+2122,Forestry professionals,A,01/01/2012 12:00:00 AM,0
+2123,"Agricultural representatives, consultants and specialists",A,01/01/2012 12:00:00 AM,0
+2131,Civil engineers,A,01/01/2012 12:00:00 AM,3
+2132,Mechanical engineers,A,01/01/2012 12:00:00 AM,3
+2133,Electrical and electronics engineers,A,01/01/2012 12:00:00 AM,3
+2134,Chemical engineers,A,01/01/2012 12:00:00 AM,0
+2141,Industrial and manufacturing engineers,A,01/01/2012 12:00:00 AM,3
+2142,Metallurgical and materials engineers,A,01/01/2012 12:00:00 AM,0
+2143,Mining engineers,A,01/01/2012 12:00:00 AM,0
+2144,Geological engineers,A,01/01/2012 12:00:00 AM,0
+2145,Petroleum engineers,A,01/01/2012 12:00:00 AM,0
+2146,Aerospace engineers,A,01/01/2012 12:00:00 AM,0
+2147,Computer engineers (except software engineers and designers),A,01/01/2012 12:00:00 AM,2
+2148,"Other professional engineers, n.e.c.",A,01/01/2012 12:00:00 AM,4
+2151,Architects,A,01/01/2012 12:00:00 AM,1
+2152,Landscape architects,A,01/01/2012 12:00:00 AM,0
+2153,Urban and land use planners,A,01/01/2012 12:00:00 AM,0
+2154,Land surveyors,A,01/01/2012 12:00:00 AM,0
+2161,"Mathematicians, statisticians and actuaries",A,01/01/2012 12:00:00 AM,0
+2171,Information systems analysts and consultants,A,01/01/2012 12:00:00 AM,11
+2172,Database analysts and data administrators,A,01/01/2012 12:00:00 AM,1
+2173,Software engineers and designers,A,01/01/2012 12:00:00 AM,12
+2174,Computer programmers and interactive media developers,A,01/01/2012 12:00:00 AM,52
+2175,Web designers and developers,A,01/01/2012 12:00:00 AM,2
+2211,Chemical technologists and technicians,B,01/01/2012 12:00:00 AM,2
+2212,Geological and mineral technologists and technicians,B,01/01/2012 12:00:00 AM,0
+2221,Biological technologists and technicians,B,01/01/2012 12:00:00 AM,0
+2222,Agricultural and fish products inspectors,B,01/01/2012 12:00:00 AM,0
+2223,Forestry technologists and technicians,B,01/01/2012 12:00:00 AM,0
+2224,Conservation and fishery officers,B,01/01/2012 12:00:00 AM,0
+2225,Landscape and horticulture technicians and specialists,B,01/01/2012 12:00:00 AM,2
+2231,Civil engineering technologists and technicians,B,01/01/2012 12:00:00 AM,0
+2232,Mechanical engineering technologists and technicians,B,01/01/2012 12:00:00 AM,2
+2233,Industrial engineering and manufacturing technologists and technicians,B,01/01/2012 12:00:00 AM,1
+2234,Construction estimators,B,01/01/2012 12:00:00 AM,0
+2241,Electrical and electronics engineering technologists and technicians,B,01/01/2012 12:00:00 AM,7
+2242,Electronic service technicians (household and business equipment),B,01/01/2012 12:00:00 AM,1
+2243,Industrial instrument technicians and mechanics,B,01/01/2012 12:00:00 AM,0
+2244,"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",B,01/01/2012 12:00:00 AM,0
+2251,Architectural technologists and technicians,B,01/01/2012 12:00:00 AM,0
+2252,Industrial designers,B,01/01/2012 12:00:00 AM,0
+2253,Drafting technologists and technicians,B,01/01/2012 12:00:00 AM,1
+2254,Land survey technologists and technicians,B,01/01/2012 12:00:00 AM,0
+2255,Technical occupations in geomatics and meteorology,B,01/01/2012 12:00:00 AM,0
+2261,Non-destructive testers and inspection technicians,B,01/01/2012 12:00:00 AM,0
+2262,Engineering inspectors and regulatory officers,B,01/01/2012 12:00:00 AM,0
+2263,Inspectors in public and environmental health and occupational health and safety,B,01/01/2012 12:00:00 AM,1
+2264,Construction inspectors,B,01/01/2012 12:00:00 AM,1
+2271,"Air pilots, flight engineers and flying instructors",B,01/01/2012 12:00:00 AM,0
+2272,Air traffic controllers and related occupations,B,01/01/2012 12:00:00 AM,1
+2273,"Deck officers, water transport",B,01/01/2012 12:00:00 AM,0
+2274,"Engineer officers, water transport",B,01/01/2012 12:00:00 AM,0
+2275,Railway traffic controllers and marine traffic regulators,B,01/01/2012 12:00:00 AM,0
+2281,Computer network technicians,B,01/01/2012 12:00:00 AM,18
+2282,User support technicians,B,01/01/2012 12:00:00 AM,19
+2283,Information systems testing technicians,B,01/01/2012 12:00:00 AM,6
+3011,Nursing co-ordinators and supervisors,A,01/01/2012 12:00:00 AM,0
+3012,Registered nurses and registered psychiatric nurses,A,01/01/2012 12:00:00 AM,20
+3111,Specialist physicians,A,01/01/2012 12:00:00 AM,6
+3112,General practitioners and family physicians,A,01/01/2012 12:00:00 AM,2
+3113,Dentists,A,01/01/2012 12:00:00 AM,1
+3114,Veterinarians,A,01/01/2012 12:00:00 AM,0
+3121,Optometrists,A,01/01/2012 12:00:00 AM,0
+3122,Chiropractors,A,01/01/2012 12:00:00 AM,0
+3124,Allied primary health practitioners,A,01/01/2012 12:00:00 AM,0
+3125,Other professional occupations in health diagnosing and treating,A,01/01/2012 12:00:00 AM,0
+3131,Pharmacists,A,01/01/2012 12:00:00 AM,1
+3132,Dietitians and nutritionists,A,01/01/2012 12:00:00 AM,0
+3141,Audiologists and speech-language pathologists,A,01/01/2012 12:00:00 AM,0
+3142,Physiotherapists,A,01/01/2012 12:00:00 AM,2
+3143,Occupational therapists,A,01/01/2012 12:00:00 AM,0
+3144,Other professional occupations in therapy and assessment,A,01/01/2012 12:00:00 AM,1
+3211,Medical laboratory technologists,B,01/01/2012 12:00:00 AM,0
+3212,Medical laboratory technicians and pathologists' assistants,B,01/01/2012 12:00:00 AM,0
+3213,Animal health technologists and veterinary technicians,B,01/01/2012 12:00:00 AM,0
+3214,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",B,01/01/2012 12:00:00 AM,0
+3215,Medical radiation technologists,B,01/01/2012 12:00:00 AM,0
+3216,Medical sonographers,B,01/01/2012 12:00:00 AM,0
+3217,"Cardiology technologists and electrophysiological diagnostic technologists, n.e.c.",B,01/01/2012 12:00:00 AM,1
+3219,Other medical technologists and technicians (except dental health),B,01/01/2012 12:00:00 AM,1
+3221,Denturists,B,01/01/2012 12:00:00 AM,0
+3222,Dental hygienists and dental therapists,B,01/01/2012 12:00:00 AM,0
+3223,"Dental technologists, technicians and laboratory assistants",B,01/01/2012 12:00:00 AM,2
+3231,Opticians,B,01/01/2012 12:00:00 AM,0
+3232,Practitioners of natural healing,B,01/01/2012 12:00:00 AM,0
+3233,Licensed practical nurses,B,01/01/2012 12:00:00 AM,6
+3234,Paramedical occupations,B,01/01/2012 12:00:00 AM,2
+3236,Massage therapists,B,01/01/2012 12:00:00 AM,1
+3237,Other technical occupations in therapy and assessment,B,01/01/2012 12:00:00 AM,0
+3411,Dental assistants,C,01/01/2012 12:00:00 AM,0
+3413,"Nurse aides, orderlies and patient service associates",C,01/01/2012 12:00:00 AM,17
+3414,Other assisting occupations in support of health services,C,01/01/2012 12:00:00 AM,0
+4011,University professors and lecturers,A,01/01/2012 12:00:00 AM,8
+4012,Post-secondary teaching and research assistants,A,01/01/2012 12:00:00 AM,4
+4021,College and other vocational instructors,A,01/01/2012 12:00:00 AM,4
+4031,Secondary school teachers,A,01/01/2012 12:00:00 AM,1
+4032,Elementary school and kindergarten teachers,A,01/01/2012 12:00:00 AM,1
+4033,Educational counsellors,A,01/01/2012 12:00:00 AM,1
+4111,Judges,A,01/01/2012 12:00:00 AM,0
+4112,Lawyers and Quebec notaries,A,01/01/2012 12:00:00 AM,1
+4151,Psychologists,A,01/01/2012 12:00:00 AM,1
+4152,Social workers,A,01/01/2012 12:00:00 AM,1
+4153,"Family, marriage and other related counsellors",A,01/01/2012 12:00:00 AM,0
+4154,Professional occupations in religion,A,01/01/2012 12:00:00 AM,2
+4155,Probation and parole officers and related occupations,A,01/01/2012 12:00:00 AM,0
+4156,Employment counsellors,A,01/01/2012 12:00:00 AM,0
+4161,"Natural and applied science policy researchers, consultants and program officers",A,01/01/2012 12:00:00 AM,2
+4162,Economists and economic policy researchers and analysts,A,01/01/2012 12:00:00 AM,2
+4163,Business development officers and marketing researchers and consultants,A,01/01/2012 12:00:00 AM,5
+4164,"Social policy researchers, consultants and program officers",A,01/01/2012 12:00:00 AM,2
+4165,"Health policy researchers, consultants and program officers",A,01/01/2012 12:00:00 AM,1
+4166,"Education policy researchers, consultants and program officers",A,01/01/2012 12:00:00 AM,2
+4167,"Recreation, sports and fitness policy researchers, consultants and program officers",A,01/01/2012 12:00:00 AM,0
+4168,Program officers unique to government,A,01/01/2012 12:00:00 AM,0
+4169,"Other professional occupations in social science, n.e.c.",A,01/01/2012 12:00:00 AM,0
+4211,Paralegal and related occupations,B,01/01/2012 12:00:00 AM,1
+4212,Social and community service workers,B,01/01/2012 12:00:00 AM,2
+4214,Early childhood educators and assistants,B,01/01/2012 12:00:00 AM,3
+4215,Instructors of persons with disabilities,B,01/01/2012 12:00:00 AM,0
+4216,Other instructors,B,01/01/2012 12:00:00 AM,0
+4217,Other religious occupations,B,01/01/2012 12:00:00 AM,0
+4311,Police officers (except commissioned),B,01/01/2012 12:00:00 AM,0
+4312,Firefighters,B,01/01/2012 12:00:00 AM,0
+4313,Non-commissioned ranks of the Canadian Forces,B,01/01/2012 12:00:00 AM,0
+4411,Home child care providers,C,01/01/2012 12:00:00 AM,0
+4412,"Home support workers, housekeepers and related occupations",C,01/01/2012 12:00:00 AM,15
+4413,Elementary and secondary school teacher assistants,C,01/01/2012 12:00:00 AM,0
+4421,Sheriffs and bailiffs,C,01/01/2012 12:00:00 AM,0
+4422,Correctional service officers,C,01/01/2012 12:00:00 AM,0
+4423,"By-law enforcement and other regulatory officers, n.e.c.",C,01/01/2012 12:00:00 AM,0
+5111,Librarians,A,01/01/2012 12:00:00 AM,2
+5112,Conservators and curators,A,01/01/2012 12:00:00 AM,0
+5113,Archivists,A,01/01/2012 12:00:00 AM,0
+5121,Authors and writers,A,01/01/2012 12:00:00 AM,2
+5122,Editors,A,01/01/2012 12:00:00 AM,1
+5123,Journalists,A,01/01/2012 12:00:00 AM,0
+5125,"Translators, terminologists and interpreters",A,01/01/2012 12:00:00 AM,2
+5131,"Producers, directors, choreographers and related occupations",A,01/01/2012 12:00:00 AM,1
+5132,"Conductors, composers and arrangers",A,01/01/2012 12:00:00 AM,0
+5133,Musicians and singers,A,01/01/2012 12:00:00 AM,0
+5134,Dancers,A,01/01/2012 12:00:00 AM,0
+5135,Actors and comedians,A,01/01/2012 12:00:00 AM,0
+5136,"Painters, sculptors and other visual artists",A,01/01/2012 12:00:00 AM,0
+5211,Library and public archive technicians,B,01/01/2012 12:00:00 AM,0
+5212,Technical occupations related to museums and art galleries,B,01/01/2012 12:00:00 AM,0
+5221,Photographers,B,01/01/2012 12:00:00 AM,0
+5222,Film and video camera operators,B,01/01/2012 12:00:00 AM,0
+5223,Graphic arts technicians,B,01/01/2012 12:00:00 AM,0
+5224,Broadcast technicians,B,01/01/2012 12:00:00 AM,0
+5225,Audio and video recording technicians,B,01/01/2012 12:00:00 AM,0
+5226,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",B,01/01/2012 12:00:00 AM,0
+5227,"Support occupations in motion pictures, broadcasting, photography and the performing arts",B,01/01/2012 12:00:00 AM,0
+5231,Announcers and other broadcasters,B,01/01/2012 12:00:00 AM,0
+5232,"Other performers, n.e.c.",B,01/01/2012 12:00:00 AM,0
+5241,Graphic designers and illustrators,B,01/01/2012 12:00:00 AM,6
+5242,Interior designers and interior decorators,B,01/01/2012 12:00:00 AM,4
+5243,"Theatre, fashion, exhibit and other creative designers",B,01/01/2012 12:00:00 AM,0
+5244,Artisans and craftspersons,B,01/01/2012 12:00:00 AM,1
+5245,"Patternmakers - textile, leather and fur products",B,01/01/2012 12:00:00 AM,0
+5251,Athletes,B,01/01/2012 12:00:00 AM,0
+5252,Coaches,B,01/01/2012 12:00:00 AM,0
+5253,Sports officials and referees,B,01/01/2012 12:00:00 AM,0
+5254,"Program leaders and instructors in recreation, sport and fitness",B,01/01/2012 12:00:00 AM,0
+6211,Retail sales supervisors,B,01/01/2012 12:00:00 AM,3
+6221,Technical sales specialists - wholesale trade,B,01/01/2012 12:00:00 AM,2
+6222,Retail and wholesale buyers,B,01/01/2012 12:00:00 AM,1
+6231,Insurance agents and brokers,B,01/01/2012 12:00:00 AM,0
+6232,Real estate agents and salespersons,B,01/01/2012 12:00:00 AM,2
+6235,Financial sales representatives,B,01/01/2012 12:00:00 AM,3
+6311,Food service supervisors,B,01/01/2012 12:00:00 AM,35
+6312,Executive housekeepers,B,01/01/2012 12:00:00 AM,0
+6313,"Accommodation, travel, tourism and related services supervisors",B,01/01/2012 12:00:00 AM,1
+6314,Customer and information services supervisors,B,01/01/2012 12:00:00 AM,0
+6315,Cleaning supervisors,B,01/01/2012 12:00:00 AM,5
+6316,Other services supervisors,B,01/01/2012 12:00:00 AM,2
+6321,Chefs,B,01/01/2012 12:00:00 AM,5
+6322,Cooks,B,01/01/2012 12:00:00 AM,72
+6331,"Butchers, meat cutters and fishmongers - retail and wholesale",B,01/01/2012 12:00:00 AM,2
+6332,Bakers,B,01/01/2012 12:00:00 AM,0
+6341,Hairstylists and barbers,B,01/01/2012 12:00:00 AM,0
+6342,"Tailors, dressmakers, furriers and milliners",B,01/01/2012 12:00:00 AM,0
+6343,Shoe repairers and shoemakers,B,01/01/2012 12:00:00 AM,0
+6344,"Jewellers, jewellery and watch repairers and related occupations",B,01/01/2012 12:00:00 AM,0
+6345,Upholsterers,B,01/01/2012 12:00:00 AM,0
+6346,Funeral directors and embalmers,B,01/01/2012 12:00:00 AM,0
+6411,Sales and account representatives - wholesale trade (non-technical),C,01/01/2012 12:00:00 AM,2
+6421,Retail salespersons,C,01/01/2012 12:00:00 AM,3
+6511,Maîtres d'hôtel and hosts/hostesses,C,01/01/2012 12:00:00 AM,0
+6512,Bartenders,C,01/01/2012 12:00:00 AM,0
+6513,Food and beverage servers,C,01/01/2012 12:00:00 AM,1
+6521,Travel counsellors,C,01/01/2012 12:00:00 AM,0
+6522,Pursers and flight attendants,C,01/01/2012 12:00:00 AM,1
+6523,Airline ticket and service agents,C,01/01/2012 12:00:00 AM,0
+6524,"Ground and water transport ticket agents, cargo service representatives and related clerks",C,01/01/2012 12:00:00 AM,0
+6525,Hotel front desk clerks,C,01/01/2012 12:00:00 AM,2
+6531,Tour and travel guides,C,01/01/2012 12:00:00 AM,0
+6532,Outdoor sport and recreational guides,C,01/01/2012 12:00:00 AM,0
+6533,Casino occupations,C,01/01/2012 12:00:00 AM,0
+6541,Security guards and related security service occupations,C,01/01/2012 12:00:00 AM,0
+6551,Customer services representatives - financial institutions,C,01/01/2012 12:00:00 AM,6
+6552,Other customer and information services representatives,C,01/01/2012 12:00:00 AM,26
+6561,"Image, social and other personal consultants",C,01/01/2012 12:00:00 AM,0
+6562,"Estheticians, electrologists and related occupations",C,01/01/2012 12:00:00 AM,0
+6563,Pet groomers and animal care workers,C,01/01/2012 12:00:00 AM,0
+6564,Other personal service occupations,C,01/01/2012 12:00:00 AM,0
+6611,Cashiers,D,01/01/2012 12:00:00 AM,1
+6621,Service station attendants,D,01/01/2012 12:00:00 AM,0
+6622,"Store shelf stockers, clerks and order fillers",D,01/01/2012 12:00:00 AM,0
+6623,Other sales related occupations,D,01/01/2012 12:00:00 AM,0
+6711,"Food counter attendants, kitchen helpers and related support occupations",D,01/01/2012 12:00:00 AM,12
+6721,"Support occupations in accommodation, travel and facilities set-up services",D,01/01/2012 12:00:00 AM,1
+6722,"Operators and attendants in amusement, recreation and sport",D,01/01/2012 12:00:00 AM,0
+6731,Light duty cleaners,D,01/01/2012 12:00:00 AM,10
+6732,Specialized cleaners,D,01/01/2012 12:00:00 AM,0
+6733,"Janitors, caretakers and building superintendents",D,01/01/2012 12:00:00 AM,0
+6741,"Dry cleaning, laundry and related occupations",D,01/01/2012 12:00:00 AM,0
+6742,"Other service support occupations, n.e.c.",D,01/01/2012 12:00:00 AM,0
+7201,"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",B,01/01/2012 12:00:00 AM,0
+7202,"Contractors and supervisors, electrical trades and telecommunications occupations",B,01/01/2012 12:00:00 AM,1
+7203,"Contractors and supervisors, pipefitting trades",B,01/01/2012 12:00:00 AM,0
+7204,"Contractors and supervisors, carpentry trades",B,01/01/2012 12:00:00 AM,0
+7205,"Contractors and supervisors, other construction trades, installers, repairers and servicers",B,01/01/2012 12:00:00 AM,1
+7231,Machinists and machining and tooling inspectors,B,01/01/2012 12:00:00 AM,0
+7232,Tool and die makers,B,01/01/2012 12:00:00 AM,0
+7233,Sheet metal workers,B,01/01/2012 12:00:00 AM,0
+7234,Boilermakers,B,01/01/2012 12:00:00 AM,0
+7235,Structural metal and platework fabricators and fitters,B,01/01/2012 12:00:00 AM,2
+7236,Ironworkers,B,01/01/2012 12:00:00 AM,0
+7237,Welders and related machine operators,B,01/01/2012 12:00:00 AM,3
+7241,Electricians (except industrial and power system),B,01/01/2012 12:00:00 AM,3
+7242,Industrial electricians,B,01/01/2012 12:00:00 AM,0
+7243,Power system electricians,B,01/01/2012 12:00:00 AM,0
+7244,Electrical power line and cable workers,B,01/01/2012 12:00:00 AM,1
+7245,Telecommunications line and cable workers,B,01/01/2012 12:00:00 AM,0
+7246,Telecommunications installation and repair workers,B,01/01/2012 12:00:00 AM,3
+7247,Cable television service and maintenance technicians,B,01/01/2012 12:00:00 AM,0
+7251,Plumbers,B,01/01/2012 12:00:00 AM,0
+7252,"Steamfitters, pipefitters and sprinkler system installers",B,01/01/2012 12:00:00 AM,0
+7253,Gas fitters,B,01/01/2012 12:00:00 AM,0
+7271,Carpenters,B,01/01/2012 12:00:00 AM,3
+7272,Cabinetmakers,B,01/01/2012 12:00:00 AM,1
+7281,Bricklayers,B,01/01/2012 12:00:00 AM,1
+7282,Concrete finishers,B,01/01/2012 12:00:00 AM,0
+7283,Tilesetters,B,01/01/2012 12:00:00 AM,1
+7284,"Plasterers, drywall installers and finishers and lathers",B,01/01/2012 12:00:00 AM,0
+7291,Roofers and shinglers,B,01/01/2012 12:00:00 AM,2
+7292,Glaziers,B,01/01/2012 12:00:00 AM,0
+7293,Insulators,B,01/01/2012 12:00:00 AM,0
+7294,Painters and decorators (except interior decorators),B,01/01/2012 12:00:00 AM,0
+7295,Floor covering installers,B,01/01/2012 12:00:00 AM,0
+7301,"Contractors and supervisors, mechanic trades",B,01/01/2012 12:00:00 AM,0
+7302,"Contractors and supervisors, heavy equipment operator crews",B,01/01/2012 12:00:00 AM,0
+7303,"Supervisors, printing and related occupations",B,01/01/2012 12:00:00 AM,0
+7304,"Supervisors, railway transport operations",B,01/01/2012 12:00:00 AM,0
+7305,"Supervisors, motor transport and other ground transit operators",B,01/01/2012 12:00:00 AM,0
+7311,Construction millwrights and industrial mechanics,B,01/01/2012 12:00:00 AM,1
+7312,Heavy-duty equipment mechanics,B,01/01/2012 12:00:00 AM,1
+7313,Refrigeration and air conditioning mechanics,B,01/01/2012 12:00:00 AM,0
+7314,Railway carmen/women,B,01/01/2012 12:00:00 AM,0
+7315,Aircraft mechanics and aircraft inspectors,B,01/01/2012 12:00:00 AM,1
+7316,Machine fitters,B,01/01/2012 12:00:00 AM,0
+7318,Elevator constructors and mechanics,B,01/01/2012 12:00:00 AM,0
+7321,"Automotive service technicians, truck and bus mechanics and mechanical repairers",B,01/01/2012 12:00:00 AM,2
+7322,Motor vehicle body repairers,B,01/01/2012 12:00:00 AM,0
+7331,Oil and solid fuel heating mechanics,B,01/01/2012 12:00:00 AM,0
+7332,Appliance servicers and repairers,B,01/01/2012 12:00:00 AM,1
+7333,Electrical mechanics,B,01/01/2012 12:00:00 AM,0
+7334,"Motorcycle, all-terrain vehicle and other related mechanics",B,01/01/2012 12:00:00 AM,0
+7335,Other small engine and small equipment repairers,B,01/01/2012 12:00:00 AM,0
+7361,Railway and yard locomotive engineers,B,01/01/2012 12:00:00 AM,0
+7362,Railway conductors and brakemen/women,B,01/01/2012 12:00:00 AM,0
+7371,Crane operators,B,01/01/2012 12:00:00 AM,0
+7372,"Drillers and blasters - surface mining, quarrying and construction",B,01/01/2012 12:00:00 AM,0
+7373,Water well drillers,B,01/01/2012 12:00:00 AM,0
+7381,Printing press operators,B,01/01/2012 12:00:00 AM,0
+7384,"Other trades and related occupations, n.e.c.",B,01/01/2012 12:00:00 AM,0
+7441,Residential and commercial installers and servicers,C,01/01/2012 12:00:00 AM,0
+7442,Waterworks and gas maintenance workers,C,01/01/2012 12:00:00 AM,0
+7444,Pest controllers and fumigators,C,01/01/2012 12:00:00 AM,0
+7445,Other repairers and servicers,C,01/01/2012 12:00:00 AM,0
+7451,Longshore workers,C,01/01/2012 12:00:00 AM,0
+7452,Material handlers,C,01/01/2012 12:00:00 AM,9
+7511,Transport truck drivers,C,01/01/2012 12:00:00 AM,12
+7512,"Bus drivers, subway operators and other transit operators",C,01/01/2012 12:00:00 AM,0
+7513,Taxi and limousine drivers and chauffeurs,C,01/01/2012 12:00:00 AM,0
+7514,Delivery and courier service drivers,C,01/01/2012 12:00:00 AM,0
+7521,Heavy equipment operators (except crane),C,01/01/2012 12:00:00 AM,0
+7522,Public works maintenance equipment operators and related workers,C,01/01/2012 12:00:00 AM,0
+7531,Railway yard and track maintenance workers,C,01/01/2012 12:00:00 AM,0
+7532,Water transport deck and engine room crew,C,01/01/2012 12:00:00 AM,0
+7533,Boat and cable ferry operators and related occupations,C,01/01/2012 12:00:00 AM,0
+7534,Air transport ramp attendants,C,01/01/2012 12:00:00 AM,0
+7535,Other automotive mechanical installers and servicers,C,01/01/2012 12:00:00 AM,0
+7611,Construction trades helpers and labourers,D,01/01/2012 12:00:00 AM,2
+7612,Other trades helpers and labourers,D,01/01/2012 12:00:00 AM,1
+7621,Public works and maintenance labourers,D,01/01/2012 12:00:00 AM,0
+7622,Railway and motor transport labourers,D,01/01/2012 12:00:00 AM,0
+8211,"Supervisors, logging and forestry",B,01/01/2012 12:00:00 AM,0
+8221,"Supervisors, mining and quarrying",B,01/01/2012 12:00:00 AM,0
+8222,"Contractors and supervisors, oil and gas drilling and services",B,01/01/2012 12:00:00 AM,0
+8231,Underground production and development miners,B,01/01/2012 12:00:00 AM,0
+8232,"Oil and gas well drillers, servicers, testers and related workers",B,01/01/2012 12:00:00 AM,0
+8241,Logging machinery operators,B,01/01/2012 12:00:00 AM,0
+8252,"Agricultural service contractors, farm supervisors and specialized livestock workers",B,01/01/2012 12:00:00 AM,0
+8255,"Contractors and supervisors, landscaping, grounds maintenance and horticulture services",B,01/01/2012 12:00:00 AM,0
+8261,Fishing masters and officers,B,01/01/2012 12:00:00 AM,0
+8262,Fishermen/women,B,01/01/2012 12:00:00 AM,0
+8411,Underground mine service and support workers,C,01/01/2012 12:00:00 AM,0
+8412,Oil and gas well drilling and related workers and services operators,C,01/01/2012 12:00:00 AM,0
+8421,Chain saw and skidder operators,C,01/01/2012 12:00:00 AM,0
+8422,Silviculture and forestry workers,C,01/01/2012 12:00:00 AM,0
+8431,General farm workers,C,01/01/2012 12:00:00 AM,0
+8432,Nursery and greenhouse workers,C,01/01/2012 12:00:00 AM,0
+8441,Fishing vessel deckhands,C,01/01/2012 12:00:00 AM,0
+8442,Trappers and hunters,C,01/01/2012 12:00:00 AM,0
+8611,Harvesting labourers,D,01/01/2012 12:00:00 AM,0
+8612,Landscaping and grounds maintenance labourers,D,01/01/2012 12:00:00 AM,0
+8613,Aquaculture and marine harvest labourers,D,01/01/2012 12:00:00 AM,0
+8614,Mine labourers,D,01/01/2012 12:00:00 AM,0
+8615,"Oil and gas drilling, servicing and related labourers",D,01/01/2012 12:00:00 AM,0
+8616,Logging and forestry labourers,D,01/01/2012 12:00:00 AM,0
+9211,"Supervisors, mineral and metal processing",B,01/01/2012 12:00:00 AM,0
+9212,"Supervisors, petroleum, gas and chemical processing and utilities",B,01/01/2012 12:00:00 AM,0
+9213,"Supervisors, food, beverage and associated products processing",B,01/01/2012 12:00:00 AM,1
+9214,"Supervisors, plastic and rubber products manufacturing",B,01/01/2012 12:00:00 AM,0
+9215,"Supervisors, forest products processing",B,01/01/2012 12:00:00 AM,0
+9217,"Supervisors, textile, fabric, fur and leather products processing and manufacturing",B,01/01/2012 12:00:00 AM,0
+9221,"Supervisors, motor vehicle assembling",B,01/01/2012 12:00:00 AM,0
+9222,"Supervisors, electronics manufacturing",B,01/01/2012 12:00:00 AM,0
+9223,"Supervisors, electrical products manufacturing",B,01/01/2012 12:00:00 AM,0
+9224,"Supervisors, furniture and fixtures manufacturing",B,01/01/2012 12:00:00 AM,0
+9226,"Supervisors, other mechanical and metal products manufacturing",B,01/01/2012 12:00:00 AM,0
+9227,"Supervisors, other products manufacturing and assembly",B,01/01/2012 12:00:00 AM,0
+9231,"Central control and process operators, mineral and metal processing",B,01/01/2012 12:00:00 AM,0
+9232,"Petroleum, gas and chemical process operators",B,01/01/2012 12:00:00 AM,0
+9235,"Pulping, papermaking and coating control operators",B,01/01/2012 12:00:00 AM,0
+9241,Power engineers and power systems operators,B,01/01/2012 12:00:00 AM,1
+9243,Water and waste treatment plant operators,B,01/01/2012 12:00:00 AM,0
+9411,"Machine operators, mineral and metal processing",C,01/01/2012 12:00:00 AM,0
+9412,Foundry workers,C,01/01/2012 12:00:00 AM,0
+9413,Glass forming and finishing machine operators and glass cutters,C,01/01/2012 12:00:00 AM,0
+9414,"Concrete, clay and stone forming operators",C,01/01/2012 12:00:00 AM,0
+9415,"Inspectors and testers, mineral and metal processing",C,01/01/2012 12:00:00 AM,0
+9416,Metalworking and forging machine operators,C,01/01/2012 12:00:00 AM,0
+9417,Machining tool operators,C,01/01/2012 12:00:00 AM,1
+9418,Other metal products machine operators,C,01/01/2012 12:00:00 AM,0
+9421,Chemical plant machine operators,C,01/01/2012 12:00:00 AM,0
+9422,Plastics processing machine operators,C,01/01/2012 12:00:00 AM,0
+9423,Rubber processing machine operators and related workers,C,01/01/2012 12:00:00 AM,0
+9431,Sawmill machine operators,C,01/01/2012 12:00:00 AM,0
+9432,Pulp mill machine operators,C,01/01/2012 12:00:00 AM,0
+9433,Papermaking and finishing machine operators,C,01/01/2012 12:00:00 AM,0
+9434,Other wood processing machine operators,C,01/01/2012 12:00:00 AM,0
+9435,Paper converting machine operators,C,01/01/2012 12:00:00 AM,0
+9436,Lumber graders and other wood processing inspectors and graders,C,01/01/2012 12:00:00 AM,0
+9437,Woodworking machine operators,C,01/01/2012 12:00:00 AM,0
+9441,"Textile fibre and yarn, hide and pelt processing machine operators and workers",C,01/01/2012 12:00:00 AM,0
+9442,"Weavers, knitters and other fabric making occupations",C,01/01/2012 12:00:00 AM,0
+9445,"Fabric, fur and leather cutters",C,01/01/2012 12:00:00 AM,0
+9446,Industrial sewing machine operators,C,01/01/2012 12:00:00 AM,0
+9447,"Inspectors and graders, textile, fabric, fur and leather products manufacturing",C,01/01/2012 12:00:00 AM,0
+9461,"Process control and machine operators, food, beverage and associated products processing",C,01/01/2012 12:00:00 AM,0
+9462,"Industrial butchers and meat cutters, poultry preparers and related workers",C,01/01/2012 12:00:00 AM,0
+9463,Fish and seafood plant workers,C,01/01/2012 12:00:00 AM,2
+9465,"Testers and graders, food, beverage and associated products processing",C,01/01/2012 12:00:00 AM,0
+9471,Plateless printing equipment operators,C,01/01/2012 12:00:00 AM,0
+9472,"Camera, platemaking and other prepress occupations",C,01/01/2012 12:00:00 AM,0
+9473,Binding and finishing machine operators,C,01/01/2012 12:00:00 AM,0
+9474,Photographic and film processors,C,01/01/2012 12:00:00 AM,0
+9521,Aircraft assemblers and aircraft assembly inspectors,C,01/01/2012 12:00:00 AM,1
+9522,"Motor vehicle assemblers, inspectors and testers",C,01/01/2012 12:00:00 AM,0
+9523,"Electronics assemblers, fabricators, inspectors and testers",C,01/01/2012 12:00:00 AM,2
+9524,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",C,01/01/2012 12:00:00 AM,0
+9525,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",C,01/01/2012 12:00:00 AM,0
+9526,Mechanical assemblers and inspectors,C,01/01/2012 12:00:00 AM,0
+9527,"Machine operators and inspectors, electrical apparatus manufacturing",C,01/01/2012 12:00:00 AM,0
+9531,Boat assemblers and inspectors,C,01/01/2012 12:00:00 AM,0
+9532,Furniture and fixture assemblers and inspectors,C,01/01/2012 12:00:00 AM,0
+9533,Other wood products assemblers and inspectors,C,01/01/2012 12:00:00 AM,0
+9534,Furniture finishers and refinishers,C,01/01/2012 12:00:00 AM,1
+9535,"Plastic products assemblers, finishers and inspectors",C,01/01/2012 12:00:00 AM,0
+9536,"Industrial painters, coaters and metal finishing process operators",C,01/01/2012 12:00:00 AM,0
+9537,"Other products assemblers, finishers and inspectors",C,01/01/2012 12:00:00 AM,0
+9611,Labourers in mineral and metal processing,D,01/01/2012 12:00:00 AM,0
+9612,Labourers in metal fabrication,D,01/01/2012 12:00:00 AM,0
+9613,Labourers in chemical products processing and utilities,D,01/01/2012 12:00:00 AM,0
+9614,"Labourers in wood, pulp and paper processing",D,01/01/2012 12:00:00 AM,0
+9615,Labourers in rubber and plastic products manufacturing,D,01/01/2012 12:00:00 AM,0
+9616,Labourers in textile processing,D,01/01/2012 12:00:00 AM,0
+9617,"Labourers in food, beverage and associated products processing",D,01/01/2012 12:00:00 AM,0
+9618,Labourers in fish and seafood processing,D,01/01/2012 12:00:00 AM,5
+9619,"Other labourers in processing, manufacturing and utilities",D,01/01/2012 12:00:00 AM,0
+11,Legislators,0,01/01/2013 12:00:00 AM,0
+12,Senior government managers and officials,0,01/01/2013 12:00:00 AM,0
+13,"Senior managers - financial, communications and other business services",0,01/01/2013 12:00:00 AM,1
+14,"Senior managers - health, education, social and community services and membership organizations",0,01/01/2013 12:00:00 AM,0
+15,"Senior managers - trade, broadcasting and other services, n.e.c.",0,01/01/2013 12:00:00 AM,1
+16,"Senior managers - construction, transportation, production and utilities",0,01/01/2013 12:00:00 AM,1
+111,Financial managers,0,01/01/2013 12:00:00 AM,4
+112,Human resources managers,0,01/01/2013 12:00:00 AM,2
+113,Purchasing managers,0,01/01/2013 12:00:00 AM,0
+114,Other administrative services managers,0,01/01/2013 12:00:00 AM,1
+121,"Insurance, real estate and financial brokerage managers",0,01/01/2013 12:00:00 AM,0
+122,"Banking, credit and other investment managers",0,01/01/2013 12:00:00 AM,0
+124,"Advertising, marketing and public relations managers",0,01/01/2013 12:00:00 AM,5
+125,Other business services managers,0,01/01/2013 12:00:00 AM,1
+131,Telecommunication carriers managers,0,01/01/2013 12:00:00 AM,0
+132,Postal and courier services managers,0,01/01/2013 12:00:00 AM,0
+211,Engineering managers,0,01/01/2013 12:00:00 AM,2
+212,Architecture and science managers,0,01/01/2013 12:00:00 AM,0
+213,Computer and information systems managers,0,01/01/2013 12:00:00 AM,1
+311,Managers in health care,0,01/01/2013 12:00:00 AM,0
+411,Government managers - health and social policy development and program administration,0,01/01/2013 12:00:00 AM,0
+412,"Government managers - economic analysis, policy development and program administration",0,01/01/2013 12:00:00 AM,0
+413,Government managers - education policy development and program administration,0,01/01/2013 12:00:00 AM,0
+414,Other managers in public administration,0,01/01/2013 12:00:00 AM,0
+421,Administrators - post-secondary education and vocational training,0,01/01/2013 12:00:00 AM,1
+422,School principals and administrators of elementary and secondary education,0,01/01/2013 12:00:00 AM,0
+423,"Managers in social, community and correctional services",0,01/01/2013 12:00:00 AM,1
+431,Commissioned police officers,0,01/01/2013 12:00:00 AM,0
+432,Fire chiefs and senior firefighting officers,0,01/01/2013 12:00:00 AM,0
+433,Commissioned officers of the Canadian Forces,0,01/01/2013 12:00:00 AM,0
+511,"Library, archive, museum and art gallery managers",0,01/01/2013 12:00:00 AM,0
+512,"Managers - publishing, motion pictures, broadcasting and performing arts",0,01/01/2013 12:00:00 AM,0
+513,"Recreation, sports and fitness program and service directors",0,01/01/2013 12:00:00 AM,1
+601,Corporate sales managers,0,01/01/2013 12:00:00 AM,1
+621,Retail and wholesale trade managers,0,01/01/2013 12:00:00 AM,12
+631,Restaurant and food service managers,0,01/01/2013 12:00:00 AM,7
+632,Accommodation service managers,0,01/01/2013 12:00:00 AM,2
+651,"Managers in customer and personal services, n.e.c.",0,01/01/2013 12:00:00 AM,1
+711,Construction managers,0,01/01/2013 12:00:00 AM,2
+712,Home building and renovation managers,0,01/01/2013 12:00:00 AM,0
+714,Facility operation and maintenance managers,0,01/01/2013 12:00:00 AM,2
+731,Managers in transportation,0,01/01/2013 12:00:00 AM,0
+811,Managers in natural resources production and fishing,0,01/01/2013 12:00:00 AM,1
+821,Managers in agriculture,0,01/01/2013 12:00:00 AM,3
+822,Managers in horticulture,0,01/01/2013 12:00:00 AM,2
+823,Managers in aquaculture,0,01/01/2013 12:00:00 AM,0
+911,Manufacturing managers,0,01/01/2013 12:00:00 AM,5
+912,Utilities managers,0,01/01/2013 12:00:00 AM,0
+1111,Financial auditors and accountants,A,01/01/2013 12:00:00 AM,22
+1112,Financial and investment analysts,A,01/01/2013 12:00:00 AM,7
+1113,"Securities agents, investment dealers and brokers",A,01/01/2013 12:00:00 AM,0
+1114,Other financial officers,A,01/01/2013 12:00:00 AM,6
+1121,Human resources professionals,A,01/01/2013 12:00:00 AM,1
+1122,Professional occupations in business management consulting,A,01/01/2013 12:00:00 AM,2
+1123,"Professional occupations in advertising, marketing and public relations",A,01/01/2013 12:00:00 AM,3
+1211,"Supervisors, general office and administrative support workers",B,01/01/2013 12:00:00 AM,0
+1212,"Supervisors, finance and insurance office workers",B,01/01/2013 12:00:00 AM,2
+1213,"Supervisors, library, correspondence and related information workers",B,01/01/2013 12:00:00 AM,0
+1214,"Supervisors, mail and message distribution occupations",B,01/01/2013 12:00:00 AM,0
+1215,"Supervisors, supply chain, tracking and scheduling co-ordination occupations",B,01/01/2013 12:00:00 AM,0
+1221,Administrative officers,B,01/01/2013 12:00:00 AM,6
+1222,Executive assistants,B,01/01/2013 12:00:00 AM,0
+1223,Human resources and recruitment officers,B,01/01/2013 12:00:00 AM,1
+1224,Property administrators,B,01/01/2013 12:00:00 AM,0
+1225,Purchasing agents and officers,B,01/01/2013 12:00:00 AM,2
+1226,Conference and event planners,B,01/01/2013 12:00:00 AM,0
+1227,Court officers and justices of the peace,B,01/01/2013 12:00:00 AM,0
+1228,"Employment insurance, immigration, border services and revenue officers",B,01/01/2013 12:00:00 AM,0
+1241,Administrative assistants,B,01/01/2013 12:00:00 AM,3
+1242,Legal administrative assistants,B,01/01/2013 12:00:00 AM,1
+1243,Medical administrative assistants,B,01/01/2013 12:00:00 AM,0
+1251,"Court reporters, medical transcriptionists and related occupations",B,01/01/2013 12:00:00 AM,0
+1252,Health information management occupations,B,01/01/2013 12:00:00 AM,0
+1253,Records management technicians,B,01/01/2013 12:00:00 AM,0
+1254,Statistical officers and related research support occupations,B,01/01/2013 12:00:00 AM,1
+1311,Accounting technicians and bookkeepers,B,01/01/2013 12:00:00 AM,5
+1312,Insurance adjusters and claims examiners,B,01/01/2013 12:00:00 AM,1
+1313,Insurance underwriters,B,01/01/2013 12:00:00 AM,0
+1314,"Assessors, valuators and appraisers",B,01/01/2013 12:00:00 AM,0
+1315,"Customs, ship and other brokers",B,01/01/2013 12:00:00 AM,0
+1411,General office support workers,C,01/01/2013 12:00:00 AM,1
+1414,Receptionists,C,01/01/2013 12:00:00 AM,0
+1415,Personnel clerks,C,01/01/2013 12:00:00 AM,0
+1416,Court clerks,C,01/01/2013 12:00:00 AM,0
+1422,Data entry clerks,C,01/01/2013 12:00:00 AM,1
+1423,Desktop publishing operators and related occupations,C,01/01/2013 12:00:00 AM,0
+1431,Accounting and related clerks,C,01/01/2013 12:00:00 AM,3
+1432,Payroll clerks,C,01/01/2013 12:00:00 AM,0
+1434,"Banking, insurance and other financial clerks",C,01/01/2013 12:00:00 AM,1
+1435,Collectors,C,01/01/2013 12:00:00 AM,0
+1451,Library assistants and clerks,C,01/01/2013 12:00:00 AM,0
+1452,"Correspondence, publication and regulatory clerks",C,01/01/2013 12:00:00 AM,0
+1454,Survey interviewers and statistical clerks,C,01/01/2013 12:00:00 AM,0
+1511,"Mail, postal and related workers",C,01/01/2013 12:00:00 AM,0
+1512,Letter carriers,C,01/01/2013 12:00:00 AM,0
+1513,"Couriers, messengers and door-to-door distributors",C,01/01/2013 12:00:00 AM,0
+1521,Shippers and receivers,C,01/01/2013 12:00:00 AM,0
+1522,Storekeepers and partspersons,C,01/01/2013 12:00:00 AM,0
+1523,Production logistics co-ordinators,C,01/01/2013 12:00:00 AM,0
+1524,Purchasing and inventory control workers,C,01/01/2013 12:00:00 AM,1
+1525,Dispatchers,C,01/01/2013 12:00:00 AM,0
+1526,Transportation route and crew schedulers,C,01/01/2013 12:00:00 AM,0
+2111,Physicists and astronomers,A,01/01/2013 12:00:00 AM,0
+2112,Chemists,A,01/01/2013 12:00:00 AM,0
+2113,Geoscientists and oceanographers,A,01/01/2013 12:00:00 AM,0
+2114,Meteorologists and climatologists,A,01/01/2013 12:00:00 AM,0
+2115,Other professional occupations in physical sciences,A,01/01/2013 12:00:00 AM,0
+2121,Biologists and related scientists,A,01/01/2013 12:00:00 AM,0
+2122,Forestry professionals,A,01/01/2013 12:00:00 AM,0
+2123,"Agricultural representatives, consultants and specialists",A,01/01/2013 12:00:00 AM,0
+2131,Civil engineers,A,01/01/2013 12:00:00 AM,4
+2132,Mechanical engineers,A,01/01/2013 12:00:00 AM,2
+2133,Electrical and electronics engineers,A,01/01/2013 12:00:00 AM,6
+2134,Chemical engineers,A,01/01/2013 12:00:00 AM,0
+2141,Industrial and manufacturing engineers,A,01/01/2013 12:00:00 AM,1
+2142,Metallurgical and materials engineers,A,01/01/2013 12:00:00 AM,0
+2143,Mining engineers,A,01/01/2013 12:00:00 AM,0
+2144,Geological engineers,A,01/01/2013 12:00:00 AM,0
+2145,Petroleum engineers,A,01/01/2013 12:00:00 AM,0
+2146,Aerospace engineers,A,01/01/2013 12:00:00 AM,0
+2147,Computer engineers (except software engineers and designers),A,01/01/2013 12:00:00 AM,3
+2148,"Other professional engineers, n.e.c.",A,01/01/2013 12:00:00 AM,0
+2151,Architects,A,01/01/2013 12:00:00 AM,1
+2152,Landscape architects,A,01/01/2013 12:00:00 AM,0
+2153,Urban and land use planners,A,01/01/2013 12:00:00 AM,1
+2154,Land surveyors,A,01/01/2013 12:00:00 AM,0
+2161,"Mathematicians, statisticians and actuaries",A,01/01/2013 12:00:00 AM,1
+2171,Information systems analysts and consultants,A,01/01/2013 12:00:00 AM,9
+2172,Database analysts and data administrators,A,01/01/2013 12:00:00 AM,5
+2173,Software engineers and designers,A,01/01/2013 12:00:00 AM,8
+2174,Computer programmers and interactive media developers,A,01/01/2013 12:00:00 AM,18
+2175,Web designers and developers,A,01/01/2013 12:00:00 AM,2
+2211,Chemical technologists and technicians,B,01/01/2013 12:00:00 AM,6
+2212,Geological and mineral technologists and technicians,B,01/01/2013 12:00:00 AM,0
+2221,Biological technologists and technicians,B,01/01/2013 12:00:00 AM,2
+2222,Agricultural and fish products inspectors,B,01/01/2013 12:00:00 AM,0
+2223,Forestry technologists and technicians,B,01/01/2013 12:00:00 AM,0
+2224,Conservation and fishery officers,B,01/01/2013 12:00:00 AM,0
+2225,Landscape and horticulture technicians and specialists,B,01/01/2013 12:00:00 AM,0
+2231,Civil engineering technologists and technicians,B,01/01/2013 12:00:00 AM,0
+2232,Mechanical engineering technologists and technicians,B,01/01/2013 12:00:00 AM,0
+2233,Industrial engineering and manufacturing technologists and technicians,B,01/01/2013 12:00:00 AM,0
+2234,Construction estimators,B,01/01/2013 12:00:00 AM,0
+2241,Electrical and electronics engineering technologists and technicians,B,01/01/2013 12:00:00 AM,3
+2242,Electronic service technicians (household and business equipment),B,01/01/2013 12:00:00 AM,0
+2243,Industrial instrument technicians and mechanics,B,01/01/2013 12:00:00 AM,0
+2244,"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",B,01/01/2013 12:00:00 AM,1
+2251,Architectural technologists and technicians,B,01/01/2013 12:00:00 AM,0
+2252,Industrial designers,B,01/01/2013 12:00:00 AM,0
+2253,Drafting technologists and technicians,B,01/01/2013 12:00:00 AM,1
+2254,Land survey technologists and technicians,B,01/01/2013 12:00:00 AM,0
+2255,Technical occupations in geomatics and meteorology,B,01/01/2013 12:00:00 AM,0
+2261,Non-destructive testers and inspection technicians,B,01/01/2013 12:00:00 AM,0
+2262,Engineering inspectors and regulatory officers,B,01/01/2013 12:00:00 AM,0
+2263,Inspectors in public and environmental health and occupational health and safety,B,01/01/2013 12:00:00 AM,0
+2264,Construction inspectors,B,01/01/2013 12:00:00 AM,0
+2271,"Air pilots, flight engineers and flying instructors",B,01/01/2013 12:00:00 AM,0
+2272,Air traffic controllers and related occupations,B,01/01/2013 12:00:00 AM,0
+2273,"Deck officers, water transport",B,01/01/2013 12:00:00 AM,2
+2274,"Engineer officers, water transport",B,01/01/2013 12:00:00 AM,0
+2275,Railway traffic controllers and marine traffic regulators,B,01/01/2013 12:00:00 AM,0
+2281,Computer network technicians,B,01/01/2013 12:00:00 AM,3
+2282,User support technicians,B,01/01/2013 12:00:00 AM,12
+2283,Information systems testing technicians,B,01/01/2013 12:00:00 AM,0
+3011,Nursing co-ordinators and supervisors,A,01/01/2013 12:00:00 AM,0
+3012,Registered nurses and registered psychiatric nurses,A,01/01/2013 12:00:00 AM,14
+3111,Specialist physicians,A,01/01/2013 12:00:00 AM,6
+3112,General practitioners and family physicians,A,01/01/2013 12:00:00 AM,0
+3113,Dentists,A,01/01/2013 12:00:00 AM,1
+3114,Veterinarians,A,01/01/2013 12:00:00 AM,0
+3121,Optometrists,A,01/01/2013 12:00:00 AM,1
+3122,Chiropractors,A,01/01/2013 12:00:00 AM,0
+3124,Allied primary health practitioners,A,01/01/2013 12:00:00 AM,0
+3125,Other professional occupations in health diagnosing and treating,A,01/01/2013 12:00:00 AM,2
+3131,Pharmacists,A,01/01/2013 12:00:00 AM,0
+3132,Dietitians and nutritionists,A,01/01/2013 12:00:00 AM,0
+3141,Audiologists and speech-language pathologists,A,01/01/2013 12:00:00 AM,0
+3142,Physiotherapists,A,01/01/2013 12:00:00 AM,0
+3143,Occupational therapists,A,01/01/2013 12:00:00 AM,0
+3144,Other professional occupations in therapy and assessment,A,01/01/2013 12:00:00 AM,0
+3211,Medical laboratory technologists,B,01/01/2013 12:00:00 AM,1
+3212,Medical laboratory technicians and pathologists' assistants,B,01/01/2013 12:00:00 AM,0
+3213,Animal health technologists and veterinary technicians,B,01/01/2013 12:00:00 AM,0
+6611,Cashiers,D,01/01/2013 12:00:00 AM,0
+3214,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",B,01/01/2013 12:00:00 AM,0
+3215,Medical radiation technologists,B,01/01/2013 12:00:00 AM,0
+3216,Medical sonographers,B,01/01/2013 12:00:00 AM,1
+3217,"Cardiology technologists and electrophysiological diagnostic technologists, n.e.c.",B,01/01/2013 12:00:00 AM,0
+3219,Other medical technologists and technicians (except dental health),B,01/01/2013 12:00:00 AM,1
+3221,Denturists,B,01/01/2013 12:00:00 AM,0
+3222,Dental hygienists and dental therapists,B,01/01/2013 12:00:00 AM,1
+3223,"Dental technologists, technicians and laboratory assistants",B,01/01/2013 12:00:00 AM,1
+3231,Opticians,B,01/01/2013 12:00:00 AM,0
+3232,Practitioners of natural healing,B,01/01/2013 12:00:00 AM,1
+3233,Licensed practical nurses,B,01/01/2013 12:00:00 AM,6
+3234,Paramedical occupations,B,01/01/2013 12:00:00 AM,0
+3236,Massage therapists,B,01/01/2013 12:00:00 AM,0
+3237,Other technical occupations in therapy and assessment,B,01/01/2013 12:00:00 AM,0
+3411,Dental assistants,C,01/01/2013 12:00:00 AM,0
+3413,"Nurse aides, orderlies and patient service associates",C,01/01/2013 12:00:00 AM,14
+3414,Other assisting occupations in support of health services,C,01/01/2013 12:00:00 AM,0
+4011,University professors and lecturers,A,01/01/2013 12:00:00 AM,5
+4012,Post-secondary teaching and research assistants,A,01/01/2013 12:00:00 AM,1
+4021,College and other vocational instructors,A,01/01/2013 12:00:00 AM,4
+4031,Secondary school teachers,A,01/01/2013 12:00:00 AM,0
+4032,Elementary school and kindergarten teachers,A,01/01/2013 12:00:00 AM,0
+4033,Educational counsellors,A,01/01/2013 12:00:00 AM,0
+4111,Judges,A,01/01/2013 12:00:00 AM,0
+4112,Lawyers and Quebec notaries,A,01/01/2013 12:00:00 AM,1
+4151,Psychologists,A,01/01/2013 12:00:00 AM,2
+4152,Social workers,A,01/01/2013 12:00:00 AM,2
+4153,"Family, marriage and other related counsellors",A,01/01/2013 12:00:00 AM,0
+4154,Professional occupations in religion,A,01/01/2013 12:00:00 AM,1
+4155,Probation and parole officers and related occupations,A,01/01/2013 12:00:00 AM,0
+4156,Employment counsellors,A,01/01/2013 12:00:00 AM,0
+4161,"Natural and applied science policy researchers, consultants and program officers",A,01/01/2013 12:00:00 AM,2
+4162,Economists and economic policy researchers and analysts,A,01/01/2013 12:00:00 AM,1
+4163,Business development officers and marketing researchers and consultants,A,01/01/2013 12:00:00 AM,4
+4164,"Social policy researchers, consultants and program officers",A,01/01/2013 12:00:00 AM,0
+4165,"Health policy researchers, consultants and program officers",A,01/01/2013 12:00:00 AM,2
+4166,"Education policy researchers, consultants and program officers",A,01/01/2013 12:00:00 AM,0
+4167,"Recreation, sports and fitness policy researchers, consultants and program officers",A,01/01/2013 12:00:00 AM,1
+4168,Program officers unique to government,A,01/01/2013 12:00:00 AM,0
+4169,"Other professional occupations in social science, n.e.c.",A,01/01/2013 12:00:00 AM,0
+4211,Paralegal and related occupations,B,01/01/2013 12:00:00 AM,2
+4212,Social and community service workers,B,01/01/2013 12:00:00 AM,4
+4214,Early childhood educators and assistants,B,01/01/2013 12:00:00 AM,4
+4215,Instructors of persons with disabilities,B,01/01/2013 12:00:00 AM,0
+4216,Other instructors,B,01/01/2013 12:00:00 AM,0
+4217,Other religious occupations,B,01/01/2013 12:00:00 AM,1
+4311,Police officers (except commissioned),B,01/01/2013 12:00:00 AM,0
+4312,Firefighters,B,01/01/2013 12:00:00 AM,0
+4313,Non-commissioned ranks of the Canadian Forces,B,01/01/2013 12:00:00 AM,0
+4411,Home child care providers,C,01/01/2013 12:00:00 AM,0
+4412,"Home support workers, housekeepers and related occupations",C,01/01/2013 12:00:00 AM,13
+4413,Elementary and secondary school teacher assistants,C,01/01/2013 12:00:00 AM,0
+4421,Sheriffs and bailiffs,C,01/01/2013 12:00:00 AM,0
+4422,Correctional service officers,C,01/01/2013 12:00:00 AM,0
+4423,"By-law enforcement and other regulatory officers, n.e.c.",C,01/01/2013 12:00:00 AM,0
+5111,Librarians,A,01/01/2013 12:00:00 AM,0
+5112,Conservators and curators,A,01/01/2013 12:00:00 AM,0
+5113,Archivists,A,01/01/2013 12:00:00 AM,0
+5121,Authors and writers,A,01/01/2013 12:00:00 AM,0
+5122,Editors,A,01/01/2013 12:00:00 AM,0
+5123,Journalists,A,01/01/2013 12:00:00 AM,1
+5125,"Translators, terminologists and interpreters",A,01/01/2013 12:00:00 AM,0
+5131,"Producers, directors, choreographers and related occupations",A,01/01/2013 12:00:00 AM,0
+5132,"Conductors, composers and arrangers",A,01/01/2013 12:00:00 AM,0
+5133,Musicians and singers,A,01/01/2013 12:00:00 AM,0
+5134,Dancers,A,01/01/2013 12:00:00 AM,1
+5135,Actors and comedians,A,01/01/2013 12:00:00 AM,0
+5136,"Painters, sculptors and other visual artists",A,01/01/2013 12:00:00 AM,1
+5211,Library and public archive technicians,B,01/01/2013 12:00:00 AM,0
+5212,Technical occupations related to museums and art galleries,B,01/01/2013 12:00:00 AM,0
+5221,Photographers,B,01/01/2013 12:00:00 AM,0
+5222,Film and video camera operators,B,01/01/2013 12:00:00 AM,0
+5223,Graphic arts technicians,B,01/01/2013 12:00:00 AM,0
+5224,Broadcast technicians,B,01/01/2013 12:00:00 AM,0
+5225,Audio and video recording technicians,B,01/01/2013 12:00:00 AM,1
+5226,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",B,01/01/2013 12:00:00 AM,0
+5227,"Support occupations in motion pictures, broadcasting, photography and the performing arts",B,01/01/2013 12:00:00 AM,0
+5231,Announcers and other broadcasters,B,01/01/2013 12:00:00 AM,0
+5232,"Other performers, n.e.c.",B,01/01/2013 12:00:00 AM,0
+5241,Graphic designers and illustrators,B,01/01/2013 12:00:00 AM,4
+5242,Interior designers and interior decorators,B,01/01/2013 12:00:00 AM,0
+5243,"Theatre, fashion, exhibit and other creative designers",B,01/01/2013 12:00:00 AM,0
+5244,Artisans and craftspersons,B,01/01/2013 12:00:00 AM,1
+5245,"Patternmakers - textile, leather and fur products",B,01/01/2013 12:00:00 AM,0
+5251,Athletes,B,01/01/2013 12:00:00 AM,0
+5252,Coaches,B,01/01/2013 12:00:00 AM,0
+5253,Sports officials and referees,B,01/01/2013 12:00:00 AM,0
+5254,"Program leaders and instructors in recreation, sport and fitness",B,01/01/2013 12:00:00 AM,0
+6211,Retail sales supervisors,B,01/01/2013 12:00:00 AM,3
+6221,Technical sales specialists - wholesale trade,B,01/01/2013 12:00:00 AM,5
+6222,Retail and wholesale buyers,B,01/01/2013 12:00:00 AM,0
+6231,Insurance agents and brokers,B,01/01/2013 12:00:00 AM,1
+6232,Real estate agents and salespersons,B,01/01/2013 12:00:00 AM,0
+6235,Financial sales representatives,B,01/01/2013 12:00:00 AM,6
+6311,Food service supervisors,B,01/01/2013 12:00:00 AM,67
+6312,Executive housekeepers,B,01/01/2013 12:00:00 AM,0
+6313,"Accommodation, travel, tourism and related services supervisors",B,01/01/2013 12:00:00 AM,1
+6314,Customer and information services supervisors,B,01/01/2013 12:00:00 AM,2
+6315,Cleaning supervisors,B,01/01/2013 12:00:00 AM,2
+6316,Other services supervisors,B,01/01/2013 12:00:00 AM,0
+6321,Chefs,B,01/01/2013 12:00:00 AM,1
+6322,Cooks,B,01/01/2013 12:00:00 AM,68
+6331,"Butchers, meat cutters and fishmongers - retail and wholesale",B,01/01/2013 12:00:00 AM,6
+6332,Bakers,B,01/01/2013 12:00:00 AM,3
+6341,Hairstylists and barbers,B,01/01/2013 12:00:00 AM,1
+6342,"Tailors, dressmakers, furriers and milliners",B,01/01/2013 12:00:00 AM,1
+6343,Shoe repairers and shoemakers,B,01/01/2013 12:00:00 AM,0
+6344,"Jewellers, jewellery and watch repairers and related occupations",B,01/01/2013 12:00:00 AM,0
+6345,Upholsterers,B,01/01/2013 12:00:00 AM,2
+6346,Funeral directors and embalmers,B,01/01/2013 12:00:00 AM,0
+6411,Sales and account representatives - wholesale trade (non-technical),C,01/01/2013 12:00:00 AM,0
+6421,Retail salespersons,C,01/01/2013 12:00:00 AM,1
+6511,Maîtres d'hôtel and hosts/hostesses,C,01/01/2013 12:00:00 AM,0
+6512,Bartenders,C,01/01/2013 12:00:00 AM,4
+6513,Food and beverage servers,C,01/01/2013 12:00:00 AM,0
+6521,Travel counsellors,C,01/01/2013 12:00:00 AM,1
+6522,Pursers and flight attendants,C,01/01/2013 12:00:00 AM,0
+6523,Airline ticket and service agents,C,01/01/2013 12:00:00 AM,0
+6524,"Ground and water transport ticket agents, cargo service representatives and related clerks",C,01/01/2013 12:00:00 AM,0
+6525,Hotel front desk clerks,C,01/01/2013 12:00:00 AM,2
+6531,Tour and travel guides,C,01/01/2013 12:00:00 AM,0
+6532,Outdoor sport and recreational guides,C,01/01/2013 12:00:00 AM,0
+6533,Casino occupations,C,01/01/2013 12:00:00 AM,0
+6541,Security guards and related security service occupations,C,01/01/2013 12:00:00 AM,1
+6551,Customer services representatives - financial institutions,C,01/01/2013 12:00:00 AM,5
+6552,Other customer and information services representatives,C,01/01/2013 12:00:00 AM,39
+6561,"Image, social and other personal consultants",C,01/01/2013 12:00:00 AM,0
+6562,"Estheticians, electrologists and related occupations",C,01/01/2013 12:00:00 AM,0
+6563,Pet groomers and animal care workers,C,01/01/2013 12:00:00 AM,0
+6564,Other personal service occupations,C,01/01/2013 12:00:00 AM,0
+6621,Service station attendants,D,01/01/2013 12:00:00 AM,0
+6622,"Store shelf stockers, clerks and order fillers",D,01/01/2013 12:00:00 AM,0
+6623,Other sales related occupations,D,01/01/2013 12:00:00 AM,0
+6711,"Food counter attendants, kitchen helpers and related support occupations",D,01/01/2013 12:00:00 AM,11
+6721,"Support occupations in accommodation, travel and facilities set-up services",D,01/01/2013 12:00:00 AM,1
+6722,"Operators and attendants in amusement, recreation and sport",D,01/01/2013 12:00:00 AM,0
+6731,Light duty cleaners,D,01/01/2013 12:00:00 AM,4
+6732,Specialized cleaners,D,01/01/2013 12:00:00 AM,0
+6733,"Janitors, caretakers and building superintendents",D,01/01/2013 12:00:00 AM,0
+6741,"Dry cleaning, laundry and related occupations",D,01/01/2013 12:00:00 AM,1
+6742,"Other service support occupations, n.e.c.",D,01/01/2013 12:00:00 AM,1
+7201,"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",B,01/01/2013 12:00:00 AM,1
+7202,"Contractors and supervisors, electrical trades and telecommunications occupations",B,01/01/2013 12:00:00 AM,1
+7203,"Contractors and supervisors, pipefitting trades",B,01/01/2013 12:00:00 AM,0
+7204,"Contractors and supervisors, carpentry trades",B,01/01/2013 12:00:00 AM,3
+7205,"Contractors and supervisors, other construction trades, installers, repairers and servicers",B,01/01/2013 12:00:00 AM,1
+7231,Machinists and machining and tooling inspectors,B,01/01/2013 12:00:00 AM,4
+7232,Tool and die makers,B,01/01/2013 12:00:00 AM,0
+7233,Sheet metal workers,B,01/01/2013 12:00:00 AM,0
+7234,Boilermakers,B,01/01/2013 12:00:00 AM,0
+7235,Structural metal and platework fabricators and fitters,B,01/01/2013 12:00:00 AM,3
+7236,Ironworkers,B,01/01/2013 12:00:00 AM,0
+7237,Welders and related machine operators,B,01/01/2013 12:00:00 AM,2
+7241,Electricians (except industrial and power system),B,01/01/2013 12:00:00 AM,2
+7242,Industrial electricians,B,01/01/2013 12:00:00 AM,0
+7243,Power system electricians,B,01/01/2013 12:00:00 AM,0
+7244,Electrical power line and cable workers,B,01/01/2013 12:00:00 AM,0
+7245,Telecommunications line and cable workers,B,01/01/2013 12:00:00 AM,0
+7246,Telecommunications installation and repair workers,B,01/01/2013 12:00:00 AM,1
+7247,Cable television service and maintenance technicians,B,01/01/2013 12:00:00 AM,0
+7251,Plumbers,B,01/01/2013 12:00:00 AM,3
+7252,"Steamfitters, pipefitters and sprinkler system installers",B,01/01/2013 12:00:00 AM,0
+7253,Gas fitters,B,01/01/2013 12:00:00 AM,0
+7271,Carpenters,B,01/01/2013 12:00:00 AM,2
+7272,Cabinetmakers,B,01/01/2013 12:00:00 AM,0
+7281,Bricklayers,B,01/01/2013 12:00:00 AM,0
+7282,Concrete finishers,B,01/01/2013 12:00:00 AM,0
+7283,Tilesetters,B,01/01/2013 12:00:00 AM,0
+7284,"Plasterers, drywall installers and finishers and lathers",B,01/01/2013 12:00:00 AM,0
+7291,Roofers and shinglers,B,01/01/2013 12:00:00 AM,0
+7292,Glaziers,B,01/01/2013 12:00:00 AM,0
+7293,Insulators,B,01/01/2013 12:00:00 AM,0
+7294,Painters and decorators (except interior decorators),B,01/01/2013 12:00:00 AM,0
+7295,Floor covering installers,B,01/01/2013 12:00:00 AM,0
+7301,"Contractors and supervisors, mechanic trades",B,01/01/2013 12:00:00 AM,0
+7302,"Contractors and supervisors, heavy equipment operator crews",B,01/01/2013 12:00:00 AM,0
+7303,"Supervisors, printing and related occupations",B,01/01/2013 12:00:00 AM,0
+7304,"Supervisors, railway transport operations",B,01/01/2013 12:00:00 AM,0
+7305,"Supervisors, motor transport and other ground transit operators",B,01/01/2013 12:00:00 AM,0
+7311,Construction millwrights and industrial mechanics,B,01/01/2013 12:00:00 AM,1
+7312,Heavy-duty equipment mechanics,B,01/01/2013 12:00:00 AM,1
+7313,Refrigeration and air conditioning mechanics,B,01/01/2013 12:00:00 AM,0
+7314,Railway carmen/women,B,01/01/2013 12:00:00 AM,0
+7315,Aircraft mechanics and aircraft inspectors,B,01/01/2013 12:00:00 AM,1
+7316,Machine fitters,B,01/01/2013 12:00:00 AM,0
+7318,Elevator constructors and mechanics,B,01/01/2013 12:00:00 AM,0
+7321,"Automotive service technicians, truck and bus mechanics and mechanical repairers",B,01/01/2013 12:00:00 AM,4
+7322,Motor vehicle body repairers,B,01/01/2013 12:00:00 AM,0
+7331,Oil and solid fuel heating mechanics,B,01/01/2013 12:00:00 AM,0
+7332,Appliance servicers and repairers,B,01/01/2013 12:00:00 AM,0
+7333,Electrical mechanics,B,01/01/2013 12:00:00 AM,0
+7334,"Motorcycle, all-terrain vehicle and other related mechanics",B,01/01/2013 12:00:00 AM,0
+7335,Other small engine and small equipment repairers,B,01/01/2013 12:00:00 AM,0
+7361,Railway and yard locomotive engineers,B,01/01/2013 12:00:00 AM,0
+7362,Railway conductors and brakemen/women,B,01/01/2013 12:00:00 AM,0
+7371,Crane operators,B,01/01/2013 12:00:00 AM,0
+7372,"Drillers and blasters - surface mining, quarrying and construction",B,01/01/2013 12:00:00 AM,0
+7373,Water well drillers,B,01/01/2013 12:00:00 AM,0
+7381,Printing press operators,B,01/01/2013 12:00:00 AM,0
+7384,"Other trades and related occupations, n.e.c.",B,01/01/2013 12:00:00 AM,0
+7441,Residential and commercial installers and servicers,C,01/01/2013 12:00:00 AM,0
+7442,Waterworks and gas maintenance workers,C,01/01/2013 12:00:00 AM,0
+7444,Pest controllers and fumigators,C,01/01/2013 12:00:00 AM,0
+7445,Other repairers and servicers,C,01/01/2013 12:00:00 AM,0
+7451,Longshore workers,C,01/01/2013 12:00:00 AM,0
+7452,Material handlers,C,01/01/2013 12:00:00 AM,4
+7511,Transport truck drivers,C,01/01/2013 12:00:00 AM,6
+7512,"Bus drivers, subway operators and other transit operators",C,01/01/2013 12:00:00 AM,0
+7513,Taxi and limousine drivers and chauffeurs,C,01/01/2013 12:00:00 AM,0
+7514,Delivery and courier service drivers,C,01/01/2013 12:00:00 AM,1
+7521,Heavy equipment operators (except crane),C,01/01/2013 12:00:00 AM,0
+7522,Public works maintenance equipment operators and related workers,C,01/01/2013 12:00:00 AM,0
+7531,Railway yard and track maintenance workers,C,01/01/2013 12:00:00 AM,0
+7532,Water transport deck and engine room crew,C,01/01/2013 12:00:00 AM,0
+7533,Boat and cable ferry operators and related occupations,C,01/01/2013 12:00:00 AM,0
+7534,Air transport ramp attendants,C,01/01/2013 12:00:00 AM,0
+7535,Other automotive mechanical installers and servicers,C,01/01/2013 12:00:00 AM,0
+7611,Construction trades helpers and labourers,D,01/01/2013 12:00:00 AM,3
+7612,Other trades helpers and labourers,D,01/01/2013 12:00:00 AM,3
+7621,Public works and maintenance labourers,D,01/01/2013 12:00:00 AM,0
+7622,Railway and motor transport labourers,D,01/01/2013 12:00:00 AM,0
+8211,"Supervisors, logging and forestry",B,01/01/2013 12:00:00 AM,0
+8221,"Supervisors, mining and quarrying",B,01/01/2013 12:00:00 AM,0
+8222,"Contractors and supervisors, oil and gas drilling and services",B,01/01/2013 12:00:00 AM,0
+8231,Underground production and development miners,B,01/01/2013 12:00:00 AM,0
+8232,"Oil and gas well drillers, servicers, testers and related workers",B,01/01/2013 12:00:00 AM,0
+8241,Logging machinery operators,B,01/01/2013 12:00:00 AM,0
+8252,"Agricultural service contractors, farm supervisors and specialized livestock workers",B,01/01/2013 12:00:00 AM,1
+8255,"Contractors and supervisors, landscaping, grounds maintenance and horticulture services",B,01/01/2013 12:00:00 AM,1
+8261,Fishing masters and officers,B,01/01/2013 12:00:00 AM,0
+8262,Fishermen/women,B,01/01/2013 12:00:00 AM,0
+8411,Underground mine service and support workers,C,01/01/2013 12:00:00 AM,0
+8412,Oil and gas well drilling and related workers and services operators,C,01/01/2013 12:00:00 AM,0
+8421,Chain saw and skidder operators,C,01/01/2013 12:00:00 AM,0
+8422,Silviculture and forestry workers,C,01/01/2013 12:00:00 AM,0
+8431,General farm workers,C,01/01/2013 12:00:00 AM,0
+8432,Nursery and greenhouse workers,C,01/01/2013 12:00:00 AM,0
+8441,Fishing vessel deckhands,C,01/01/2013 12:00:00 AM,0
+8442,Trappers and hunters,C,01/01/2013 12:00:00 AM,0
+8611,Harvesting labourers,D,01/01/2013 12:00:00 AM,0
+8612,Landscaping and grounds maintenance labourers,D,01/01/2013 12:00:00 AM,0
+8613,Aquaculture and marine harvest labourers,D,01/01/2013 12:00:00 AM,0
+8614,Mine labourers,D,01/01/2013 12:00:00 AM,0
+8615,"Oil and gas drilling, servicing and related labourers",D,01/01/2013 12:00:00 AM,0
+8616,Logging and forestry labourers,D,01/01/2013 12:00:00 AM,0
+9211,"Supervisors, mineral and metal processing",B,01/01/2013 12:00:00 AM,0
+9212,"Supervisors, petroleum, gas and chemical processing and utilities",B,01/01/2013 12:00:00 AM,0
+9213,"Supervisors, food, beverage and associated products processing",B,01/01/2013 12:00:00 AM,1
+9214,"Supervisors, plastic and rubber products manufacturing",B,01/01/2013 12:00:00 AM,0
+9215,"Supervisors, forest products processing",B,01/01/2013 12:00:00 AM,0
+9217,"Supervisors, textile, fabric, fur and leather products processing and manufacturing",B,01/01/2013 12:00:00 AM,0
+9221,"Supervisors, motor vehicle assembling",B,01/01/2013 12:00:00 AM,0
+9222,"Supervisors, electronics manufacturing",B,01/01/2013 12:00:00 AM,0
+9223,"Supervisors, electrical products manufacturing",B,01/01/2013 12:00:00 AM,0
+9224,"Supervisors, furniture and fixtures manufacturing",B,01/01/2013 12:00:00 AM,0
+9226,"Supervisors, other mechanical and metal products manufacturing",B,01/01/2013 12:00:00 AM,0
+9227,"Supervisors, other products manufacturing and assembly",B,01/01/2013 12:00:00 AM,0
+9231,"Central control and process operators, mineral and metal processing",B,01/01/2013 12:00:00 AM,0
+9232,"Petroleum, gas and chemical process operators",B,01/01/2013 12:00:00 AM,0
+9235,"Pulping, papermaking and coating control operators",B,01/01/2013 12:00:00 AM,0
+9241,Power engineers and power systems operators,B,01/01/2013 12:00:00 AM,0
+9243,Water and waste treatment plant operators,B,01/01/2013 12:00:00 AM,0
+9411,"Machine operators, mineral and metal processing",C,01/01/2013 12:00:00 AM,0
+9412,Foundry workers,C,01/01/2013 12:00:00 AM,0
+9413,Glass forming and finishing machine operators and glass cutters,C,01/01/2013 12:00:00 AM,0
+9414,"Concrete, clay and stone forming operators",C,01/01/2013 12:00:00 AM,0
+9415,"Inspectors and testers, mineral and metal processing",C,01/01/2013 12:00:00 AM,0
+9416,Metalworking and forging machine operators,C,01/01/2013 12:00:00 AM,0
+9417,Machining tool operators,C,01/01/2013 12:00:00 AM,0
+9418,Other metal products machine operators,C,01/01/2013 12:00:00 AM,0
+9421,Chemical plant machine operators,C,01/01/2013 12:00:00 AM,0
+9422,Plastics processing machine operators,C,01/01/2013 12:00:00 AM,0
+9423,Rubber processing machine operators and related workers,C,01/01/2013 12:00:00 AM,0
+9431,Sawmill machine operators,C,01/01/2013 12:00:00 AM,0
+9432,Pulp mill machine operators,C,01/01/2013 12:00:00 AM,0
+9433,Papermaking and finishing machine operators,C,01/01/2013 12:00:00 AM,0
+9434,Other wood processing machine operators,C,01/01/2013 12:00:00 AM,0
+9435,Paper converting machine operators,C,01/01/2013 12:00:00 AM,0
+9436,Lumber graders and other wood processing inspectors and graders,C,01/01/2013 12:00:00 AM,0
+9437,Woodworking machine operators,C,01/01/2013 12:00:00 AM,0
+9441,"Textile fibre and yarn, hide and pelt processing machine operators and workers",C,01/01/2013 12:00:00 AM,0
+9442,"Weavers, knitters and other fabric making occupations",C,01/01/2013 12:00:00 AM,0
+9445,"Fabric, fur and leather cutters",C,01/01/2013 12:00:00 AM,0
+9446,Industrial sewing machine operators,C,01/01/2013 12:00:00 AM,2
+9447,"Inspectors and graders, textile, fabric, fur and leather products manufacturing",C,01/01/2013 12:00:00 AM,0
+9461,"Process control and machine operators, food, beverage and associated products processing",C,01/01/2013 12:00:00 AM,0
+9462,"Industrial butchers and meat cutters, poultry preparers and related workers",C,01/01/2013 12:00:00 AM,0
+9463,Fish and seafood plant workers,C,01/01/2013 12:00:00 AM,7
+9465,"Testers and graders, food, beverage and associated products processing",C,01/01/2013 12:00:00 AM,0
+9471,Plateless printing equipment operators,C,01/01/2013 12:00:00 AM,0
+9472,"Camera, platemaking and other prepress occupations",C,01/01/2013 12:00:00 AM,0
+9473,Binding and finishing machine operators,C,01/01/2013 12:00:00 AM,0
+9474,Photographic and film processors,C,01/01/2013 12:00:00 AM,0
+9521,Aircraft assemblers and aircraft assembly inspectors,C,01/01/2013 12:00:00 AM,0
+9522,"Motor vehicle assemblers, inspectors and testers",C,01/01/2013 12:00:00 AM,0
+9523,"Electronics assemblers, fabricators, inspectors and testers",C,01/01/2013 12:00:00 AM,0
+9524,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",C,01/01/2013 12:00:00 AM,0
+9525,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",C,01/01/2013 12:00:00 AM,0
+9526,Mechanical assemblers and inspectors,C,01/01/2013 12:00:00 AM,0
+9527,"Machine operators and inspectors, electrical apparatus manufacturing",C,01/01/2013 12:00:00 AM,0
+9531,Boat assemblers and inspectors,C,01/01/2013 12:00:00 AM,0
+9532,Furniture and fixture assemblers and inspectors,C,01/01/2013 12:00:00 AM,0
+9533,Other wood products assemblers and inspectors,C,01/01/2013 12:00:00 AM,0
+9534,Furniture finishers and refinishers,C,01/01/2013 12:00:00 AM,0
+9535,"Plastic products assemblers, finishers and inspectors",C,01/01/2013 12:00:00 AM,0
+9536,"Industrial painters, coaters and metal finishing process operators",C,01/01/2013 12:00:00 AM,0
+9537,"Other products assemblers, finishers and inspectors",C,01/01/2013 12:00:00 AM,0
+9611,Labourers in mineral and metal processing,D,01/01/2013 12:00:00 AM,0
+9612,Labourers in metal fabrication,D,01/01/2013 12:00:00 AM,0
+9613,Labourers in chemical products processing and utilities,D,01/01/2013 12:00:00 AM,0
+9614,"Labourers in wood, pulp and paper processing",D,01/01/2013 12:00:00 AM,0
+9615,Labourers in rubber and plastic products manufacturing,D,01/01/2013 12:00:00 AM,0
+9616,Labourers in textile processing,D,01/01/2013 12:00:00 AM,0
+9617,"Labourers in food, beverage and associated products processing",D,01/01/2013 12:00:00 AM,0
+9618,Labourers in fish and seafood processing,D,01/01/2013 12:00:00 AM,1
+9619,"Other labourers in processing, manufacturing and utilities",D,01/01/2013 12:00:00 AM,0
+11,Legislators,0,01/01/2014 12:00:00 AM,0
+12,Senior government managers and officials,0,01/01/2014 12:00:00 AM,0
+13,"Senior managers - financial, communications and other business services",0,01/01/2014 12:00:00 AM,2
+14,"Senior managers - health, education, social and community services and membership organizations",0,01/01/2014 12:00:00 AM,0
+15,"Senior managers - trade, broadcasting and other services, n.e.c.",0,01/01/2014 12:00:00 AM,3
+16,"Senior managers - construction, transportation, production and utilities",0,01/01/2014 12:00:00 AM,3
+111,Financial managers,0,01/01/2014 12:00:00 AM,3
+112,Human resources managers,0,01/01/2014 12:00:00 AM,1
+113,Purchasing managers,0,01/01/2014 12:00:00 AM,2
+114,Other administrative services managers,0,01/01/2014 12:00:00 AM,2
+121,"Insurance, real estate and financial brokerage managers",0,01/01/2014 12:00:00 AM,2
+122,"Banking, credit and other investment managers",0,01/01/2014 12:00:00 AM,5
+124,"Advertising, marketing and public relations managers",0,01/01/2014 12:00:00 AM,2
+125,Other business services managers,0,01/01/2014 12:00:00 AM,3
+131,Telecommunication carriers managers,0,01/01/2014 12:00:00 AM,1
+132,Postal and courier services managers,0,01/01/2014 12:00:00 AM,0
+211,Engineering managers,0,01/01/2014 12:00:00 AM,3
+212,Architecture and science managers,0,01/01/2014 12:00:00 AM,0
+213,Computer and information systems managers,0,01/01/2014 12:00:00 AM,6
+311,Managers in health care,0,01/01/2014 12:00:00 AM,2
+411,Government managers - health and social policy development and program administration,0,01/01/2014 12:00:00 AM,0
+412,"Government managers - economic analysis, policy development and program administration",0,01/01/2014 12:00:00 AM,0
+413,Government managers - education policy development and program administration,0,01/01/2014 12:00:00 AM,0
+414,Other managers in public administration,0,01/01/2014 12:00:00 AM,0
+421,Administrators - post-secondary education and vocational training,0,01/01/2014 12:00:00 AM,2
+422,School principals and administrators of elementary and secondary education,0,01/01/2014 12:00:00 AM,0
+423,"Managers in social, community and correctional services",0,01/01/2014 12:00:00 AM,0
+431,Commissioned police officers,0,01/01/2014 12:00:00 AM,0
+432,Fire chiefs and senior firefighting officers,0,01/01/2014 12:00:00 AM,0
+433,Commissioned officers of the Canadian Forces,0,01/01/2014 12:00:00 AM,0
+511,"Library, archive, museum and art gallery managers",0,01/01/2014 12:00:00 AM,0
+512,"Managers - publishing, motion pictures, broadcasting and performing arts",0,01/01/2014 12:00:00 AM,0
+513,"Recreation, sports and fitness program and service directors",0,01/01/2014 12:00:00 AM,0
+601,Corporate sales managers,0,01/01/2014 12:00:00 AM,2
+621,Retail and wholesale trade managers,0,01/01/2014 12:00:00 AM,9
+631,Restaurant and food service managers,0,01/01/2014 12:00:00 AM,10
+632,Accommodation service managers,0,01/01/2014 12:00:00 AM,2
+651,"Managers in customer and personal services, n.e.c.",0,01/01/2014 12:00:00 AM,1
+711,Construction managers,0,01/01/2014 12:00:00 AM,5
+712,Home building and renovation managers,0,01/01/2014 12:00:00 AM,1
+714,Facility operation and maintenance managers,0,01/01/2014 12:00:00 AM,1
+731,Managers in transportation,0,01/01/2014 12:00:00 AM,0
+811,Managers in natural resources production and fishing,0,01/01/2014 12:00:00 AM,0
+821,Managers in agriculture,0,01/01/2014 12:00:00 AM,1
+822,Managers in horticulture,0,01/01/2014 12:00:00 AM,0
+823,Managers in aquaculture,0,01/01/2014 12:00:00 AM,0
+911,Manufacturing managers,0,01/01/2014 12:00:00 AM,2
+912,Utilities managers,0,01/01/2014 12:00:00 AM,0
+1111,Financial auditors and accountants,A,01/01/2014 12:00:00 AM,15
+1112,Financial and investment analysts,A,01/01/2014 12:00:00 AM,7
+1113,"Securities agents, investment dealers and brokers",A,01/01/2014 12:00:00 AM,0
+1114,Other financial officers,A,01/01/2014 12:00:00 AM,7
+1121,Human resources professionals,A,01/01/2014 12:00:00 AM,0
+1122,Professional occupations in business management consulting,A,01/01/2014 12:00:00 AM,5
+1123,"Professional occupations in advertising, marketing and public relations",A,01/01/2014 12:00:00 AM,1
+1211,"Supervisors, general office and administrative support workers",B,01/01/2014 12:00:00 AM,0
+1212,"Supervisors, finance and insurance office workers",B,01/01/2014 12:00:00 AM,1
+1213,"Supervisors, library, correspondence and related information workers",B,01/01/2014 12:00:00 AM,0
+1214,"Supervisors, mail and message distribution occupations",B,01/01/2014 12:00:00 AM,0
+1215,"Supervisors, supply chain, tracking and scheduling co-ordination occupations",B,01/01/2014 12:00:00 AM,1
+1221,Administrative officers,B,01/01/2014 12:00:00 AM,8
+1222,Executive assistants,B,01/01/2014 12:00:00 AM,0
+1223,Human resources and recruitment officers,B,01/01/2014 12:00:00 AM,0
+1224,Property administrators,B,01/01/2014 12:00:00 AM,0
+1225,Purchasing agents and officers,B,01/01/2014 12:00:00 AM,3
+1226,Conference and event planners,B,01/01/2014 12:00:00 AM,0
+1227,Court officers and justices of the peace,B,01/01/2014 12:00:00 AM,0
+1228,"Employment insurance, immigration, border services and revenue officers",B,01/01/2014 12:00:00 AM,0
+1241,Administrative assistants,B,01/01/2014 12:00:00 AM,0
+1242,Legal administrative assistants,B,01/01/2014 12:00:00 AM,0
+1243,Medical administrative assistants,B,01/01/2014 12:00:00 AM,0
+1251,"Court reporters, medical transcriptionists and related occupations",B,01/01/2014 12:00:00 AM,0
+1252,Health information management occupations,B,01/01/2014 12:00:00 AM,0
+1253,Records management technicians,B,01/01/2014 12:00:00 AM,0
+1254,Statistical officers and related research support occupations,B,01/01/2014 12:00:00 AM,0
+1311,Accounting technicians and bookkeepers,B,01/01/2014 12:00:00 AM,5
+1312,Insurance adjusters and claims examiners,B,01/01/2014 12:00:00 AM,0
+1313,Insurance underwriters,B,01/01/2014 12:00:00 AM,0
+1314,"Assessors, valuators and appraisers",B,01/01/2014 12:00:00 AM,0
+1315,"Customs, ship and other brokers",B,01/01/2014 12:00:00 AM,0
+1411,General office support workers,C,01/01/2014 12:00:00 AM,0
+1414,Receptionists,C,01/01/2014 12:00:00 AM,0
+1415,Personnel clerks,C,01/01/2014 12:00:00 AM,0
+1416,Court clerks,C,01/01/2014 12:00:00 AM,0
+1422,Data entry clerks,C,01/01/2014 12:00:00 AM,0
+1423,Desktop publishing operators and related occupations,C,01/01/2014 12:00:00 AM,0
+1431,Accounting and related clerks,C,01/01/2014 12:00:00 AM,0
+1432,Payroll clerks,C,01/01/2014 12:00:00 AM,1
+1434,"Banking, insurance and other financial clerks",C,01/01/2014 12:00:00 AM,0
+1435,Collectors,C,01/01/2014 12:00:00 AM,0
+1451,Library assistants and clerks,C,01/01/2014 12:00:00 AM,0
+1452,"Correspondence, publication and regulatory clerks",C,01/01/2014 12:00:00 AM,0
+1454,Survey interviewers and statistical clerks,C,01/01/2014 12:00:00 AM,0
+1511,"Mail, postal and related workers",C,01/01/2014 12:00:00 AM,0
+1512,Letter carriers,C,01/01/2014 12:00:00 AM,0
+1513,"Couriers, messengers and door-to-door distributors",C,01/01/2014 12:00:00 AM,0
+1521,Shippers and receivers,C,01/01/2014 12:00:00 AM,0
+1522,Storekeepers and partspersons,C,01/01/2014 12:00:00 AM,0
+1523,Production logistics co-ordinators,C,01/01/2014 12:00:00 AM,0
+1524,Purchasing and inventory control workers,C,01/01/2014 12:00:00 AM,2
+1525,Dispatchers,C,01/01/2014 12:00:00 AM,0
+1526,Transportation route and crew schedulers,C,01/01/2014 12:00:00 AM,0
+2111,Physicists and astronomers,A,01/01/2014 12:00:00 AM,1
+2112,Chemists,A,01/01/2014 12:00:00 AM,0
+2113,Geoscientists and oceanographers,A,01/01/2014 12:00:00 AM,2
+2114,Meteorologists and climatologists,A,01/01/2014 12:00:00 AM,0
+2115,Other professional occupations in physical sciences,A,01/01/2014 12:00:00 AM,0
+2121,Biologists and related scientists,A,01/01/2014 12:00:00 AM,4
+2122,Forestry professionals,A,01/01/2014 12:00:00 AM,0
+2123,"Agricultural representatives, consultants and specialists",A,01/01/2014 12:00:00 AM,0
+2131,Civil engineers,A,01/01/2014 12:00:00 AM,4
+2132,Mechanical engineers,A,01/01/2014 12:00:00 AM,13
+2133,Electrical and electronics engineers,A,01/01/2014 12:00:00 AM,15
+2134,Chemical engineers,A,01/01/2014 12:00:00 AM,1
+2141,Industrial and manufacturing engineers,A,01/01/2014 12:00:00 AM,6
+2142,Metallurgical and materials engineers,A,01/01/2014 12:00:00 AM,0
+2143,Mining engineers,A,01/01/2014 12:00:00 AM,0
+2144,Geological engineers,A,01/01/2014 12:00:00 AM,0
+2145,Petroleum engineers,A,01/01/2014 12:00:00 AM,0
+2146,Aerospace engineers,A,01/01/2014 12:00:00 AM,0
+2147,Computer engineers (except software engineers and designers),A,01/01/2014 12:00:00 AM,15
+2148,"Other professional engineers, n.e.c.",A,01/01/2014 12:00:00 AM,2
+2151,Architects,A,01/01/2014 12:00:00 AM,1
+2152,Landscape architects,A,01/01/2014 12:00:00 AM,0
+2153,Urban and land use planners,A,01/01/2014 12:00:00 AM,0
+2154,Land surveyors,A,01/01/2014 12:00:00 AM,0
+2161,"Mathematicians, statisticians and actuaries",A,01/01/2014 12:00:00 AM,1
+2171,Information systems analysts and consultants,A,01/01/2014 12:00:00 AM,24
+2172,Database analysts and data administrators,A,01/01/2014 12:00:00 AM,0
+2173,Software engineers and designers,A,01/01/2014 12:00:00 AM,36
+2174,Computer programmers and interactive media developers,A,01/01/2014 12:00:00 AM,37
+2175,Web designers and developers,A,01/01/2014 12:00:00 AM,0
+2211,Chemical technologists and technicians,B,01/01/2014 12:00:00 AM,2
+2212,Geological and mineral technologists and technicians,B,01/01/2014 12:00:00 AM,0
+2221,Biological technologists and technicians,B,01/01/2014 12:00:00 AM,0
+2222,Agricultural and fish products inspectors,B,01/01/2014 12:00:00 AM,0
+2223,Forestry technologists and technicians,B,01/01/2014 12:00:00 AM,0
+2224,Conservation and fishery officers,B,01/01/2014 12:00:00 AM,0
+2225,Landscape and horticulture technicians and specialists,B,01/01/2014 12:00:00 AM,0
+2231,Civil engineering technologists and technicians,B,01/01/2014 12:00:00 AM,0
+2232,Mechanical engineering technologists and technicians,B,01/01/2014 12:00:00 AM,2
+2233,Industrial engineering and manufacturing technologists and technicians,B,01/01/2014 12:00:00 AM,4
+2234,Construction estimators,B,01/01/2014 12:00:00 AM,0
+2241,Electrical and electronics engineering technologists and technicians,B,01/01/2014 12:00:00 AM,4
+2242,Electronic service technicians (household and business equipment),B,01/01/2014 12:00:00 AM,1
+2243,Industrial instrument technicians and mechanics,B,01/01/2014 12:00:00 AM,0
+2244,"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",B,01/01/2014 12:00:00 AM,0
+2251,Architectural technologists and technicians,B,01/01/2014 12:00:00 AM,0
+2252,Industrial designers,B,01/01/2014 12:00:00 AM,0
+2253,Drafting technologists and technicians,B,01/01/2014 12:00:00 AM,0
+2254,Land survey technologists and technicians,B,01/01/2014 12:00:00 AM,0
+2255,Technical occupations in geomatics and meteorology,B,01/01/2014 12:00:00 AM,0
+2261,Non-destructive testers and inspection technicians,B,01/01/2014 12:00:00 AM,0
+2262,Engineering inspectors and regulatory officers,B,01/01/2014 12:00:00 AM,1
+2263,Inspectors in public and environmental health and occupational health and safety,B,01/01/2014 12:00:00 AM,0
+2264,Construction inspectors,B,01/01/2014 12:00:00 AM,1
+2271,"Air pilots, flight engineers and flying instructors",B,01/01/2014 12:00:00 AM,0
+2272,Air traffic controllers and related occupations,B,01/01/2014 12:00:00 AM,0
+2273,"Deck officers, water transport",B,01/01/2014 12:00:00 AM,0
+2274,"Engineer officers, water transport",B,01/01/2014 12:00:00 AM,0
+2275,Railway traffic controllers and marine traffic regulators,B,01/01/2014 12:00:00 AM,0
+2281,Computer network technicians,B,01/01/2014 12:00:00 AM,3
+2282,User support technicians,B,01/01/2014 12:00:00 AM,6
+2283,Information systems testing technicians,B,01/01/2014 12:00:00 AM,8
+3011,Nursing co-ordinators and supervisors,A,01/01/2014 12:00:00 AM,0
+3012,Registered nurses and registered psychiatric nurses,A,01/01/2014 12:00:00 AM,20
+3111,Specialist physicians,A,01/01/2014 12:00:00 AM,17
+3112,General practitioners and family physicians,A,01/01/2014 12:00:00 AM,2
+3113,Dentists,A,01/01/2014 12:00:00 AM,1
+3114,Veterinarians,A,01/01/2014 12:00:00 AM,1
+3121,Optometrists,A,01/01/2014 12:00:00 AM,0
+3122,Chiropractors,A,01/01/2014 12:00:00 AM,0
+3124,Allied primary health practitioners,A,01/01/2014 12:00:00 AM,0
+3125,Other professional occupations in health diagnosing and treating,A,01/01/2014 12:00:00 AM,0
+3131,Pharmacists,A,01/01/2014 12:00:00 AM,0
+3132,Dietitians and nutritionists,A,01/01/2014 12:00:00 AM,0
+3141,Audiologists and speech-language pathologists,A,01/01/2014 12:00:00 AM,0
+3142,Physiotherapists,A,01/01/2014 12:00:00 AM,2
+3143,Occupational therapists,A,01/01/2014 12:00:00 AM,0
+3144,Other professional occupations in therapy and assessment,A,01/01/2014 12:00:00 AM,0
+3211,Medical laboratory technologists,B,01/01/2014 12:00:00 AM,1
+3212,Medical laboratory technicians and pathologists' assistants,B,01/01/2014 12:00:00 AM,0
+3213,Animal health technologists and veterinary technicians,B,01/01/2014 12:00:00 AM,0
+3214,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",B,01/01/2014 12:00:00 AM,0
+3215,Medical radiation technologists,B,01/01/2014 12:00:00 AM,0
+3216,Medical sonographers,B,01/01/2014 12:00:00 AM,0
+3217,"Cardiology technologists and electrophysiological diagnostic technologists, n.e.c.",B,01/01/2014 12:00:00 AM,0
+3219,Other medical technologists and technicians (except dental health),B,01/01/2014 12:00:00 AM,0
+3221,Denturists,B,01/01/2014 12:00:00 AM,0
+3222,Dental hygienists and dental therapists,B,01/01/2014 12:00:00 AM,0
+3223,"Dental technologists, technicians and laboratory assistants",B,01/01/2014 12:00:00 AM,1
+3231,Opticians,B,01/01/2014 12:00:00 AM,0
+3232,Practitioners of natural healing,B,01/01/2014 12:00:00 AM,0
+3233,Licensed practical nurses,B,01/01/2014 12:00:00 AM,10
+3234,Paramedical occupations,B,01/01/2014 12:00:00 AM,2
+3236,Massage therapists,B,01/01/2014 12:00:00 AM,0
+3237,Other technical occupations in therapy and assessment,B,01/01/2014 12:00:00 AM,0
+3411,Dental assistants,C,01/01/2014 12:00:00 AM,0
+3413,"Nurse aides, orderlies and patient service associates",C,01/01/2014 12:00:00 AM,25
+3414,Other assisting occupations in support of health services,C,01/01/2014 12:00:00 AM,0
+4011,University professors and lecturers,A,01/01/2014 12:00:00 AM,4
+4012,Post-secondary teaching and research assistants,A,01/01/2014 12:00:00 AM,0
+4021,College and other vocational instructors,A,01/01/2014 12:00:00 AM,1
+4031,Secondary school teachers,A,01/01/2014 12:00:00 AM,0
+4032,Elementary school and kindergarten teachers,A,01/01/2014 12:00:00 AM,0
+4033,Educational counsellors,A,01/01/2014 12:00:00 AM,1
+4111,Judges,A,01/01/2014 12:00:00 AM,0
+4112,Lawyers and Quebec notaries,A,01/01/2014 12:00:00 AM,0
+4151,Psychologists,A,01/01/2014 12:00:00 AM,4
+4152,Social workers,A,01/01/2014 12:00:00 AM,1
+4153,"Family, marriage and other related counsellors",A,01/01/2014 12:00:00 AM,0
+4154,Professional occupations in religion,A,01/01/2014 12:00:00 AM,1
+4155,Probation and parole officers and related occupations,A,01/01/2014 12:00:00 AM,0
+4156,Employment counsellors,A,01/01/2014 12:00:00 AM,0
+4161,"Natural and applied science policy researchers, consultants and program officers",A,01/01/2014 12:00:00 AM,0
+4162,Economists and economic policy researchers and analysts,A,01/01/2014 12:00:00 AM,3
+4163,Business development officers and marketing researchers and consultants,A,01/01/2014 12:00:00 AM,5
+4164,"Social policy researchers, consultants and program officers",A,01/01/2014 12:00:00 AM,0
+4165,"Health policy researchers, consultants and program officers",A,01/01/2014 12:00:00 AM,2
+4166,"Education policy researchers, consultants and program officers",A,01/01/2014 12:00:00 AM,1
+4167,"Recreation, sports and fitness policy researchers, consultants and program officers",A,01/01/2014 12:00:00 AM,0
+4168,Program officers unique to government,A,01/01/2014 12:00:00 AM,0
+4169,"Other professional occupations in social science, n.e.c.",A,01/01/2014 12:00:00 AM,0
+4211,Paralegal and related occupations,B,01/01/2014 12:00:00 AM,0
+4212,Social and community service workers,B,01/01/2014 12:00:00 AM,3
+4214,Early childhood educators and assistants,B,01/01/2014 12:00:00 AM,7
+4215,Instructors of persons with disabilities,B,01/01/2014 12:00:00 AM,0
+4216,Other instructors,B,01/01/2014 12:00:00 AM,0
+4217,Other religious occupations,B,01/01/2014 12:00:00 AM,1
+4311,Police officers (except commissioned),B,01/01/2014 12:00:00 AM,0
+4312,Firefighters,B,01/01/2014 12:00:00 AM,0
+4313,Non-commissioned ranks of the Canadian Forces,B,01/01/2014 12:00:00 AM,0
+4411,Home child care providers,C,01/01/2014 12:00:00 AM,0
+4412,"Home support workers, housekeepers and related occupations",C,01/01/2014 12:00:00 AM,5
+4413,Elementary and secondary school teacher assistants,C,01/01/2014 12:00:00 AM,0
+4421,Sheriffs and bailiffs,C,01/01/2014 12:00:00 AM,0
+4422,Correctional service officers,C,01/01/2014 12:00:00 AM,0
+4423,"By-law enforcement and other regulatory officers, n.e.c.",C,01/01/2014 12:00:00 AM,0
+5111,Librarians,A,01/01/2014 12:00:00 AM,0
+5112,Conservators and curators,A,01/01/2014 12:00:00 AM,0
+5113,Archivists,A,01/01/2014 12:00:00 AM,0
+5121,Authors and writers,A,01/01/2014 12:00:00 AM,0
+5122,Editors,A,01/01/2014 12:00:00 AM,1
+5123,Journalists,A,01/01/2014 12:00:00 AM,0
+5125,"Translators, terminologists and interpreters",A,01/01/2014 12:00:00 AM,0
+5131,"Producers, directors, choreographers and related occupations",A,01/01/2014 12:00:00 AM,2
+5132,"Conductors, composers and arrangers",A,01/01/2014 12:00:00 AM,0
+5133,Musicians and singers,A,01/01/2014 12:00:00 AM,0
+5134,Dancers,A,01/01/2014 12:00:00 AM,0
+5135,Actors and comedians,A,01/01/2014 12:00:00 AM,0
+5136,"Painters, sculptors and other visual artists",A,01/01/2014 12:00:00 AM,0
+5211,Library and public archive technicians,B,01/01/2014 12:00:00 AM,0
+5212,Technical occupations related to museums and art galleries,B,01/01/2014 12:00:00 AM,1
+5221,Photographers,B,01/01/2014 12:00:00 AM,0
+5222,Film and video camera operators,B,01/01/2014 12:00:00 AM,0
+5223,Graphic arts technicians,B,01/01/2014 12:00:00 AM,1
+5224,Broadcast technicians,B,01/01/2014 12:00:00 AM,0
+5225,Audio and video recording technicians,B,01/01/2014 12:00:00 AM,0
+5226,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",B,01/01/2014 12:00:00 AM,0
+5227,"Support occupations in motion pictures, broadcasting, photography and the performing arts",B,01/01/2014 12:00:00 AM,0
+5231,Announcers and other broadcasters,B,01/01/2014 12:00:00 AM,0
+5232,"Other performers, n.e.c.",B,01/01/2014 12:00:00 AM,0
+5241,Graphic designers and illustrators,B,01/01/2014 12:00:00 AM,3
+5242,Interior designers and interior decorators,B,01/01/2014 12:00:00 AM,0
+5243,"Theatre, fashion, exhibit and other creative designers",B,01/01/2014 12:00:00 AM,1
+5244,Artisans and craftspersons,B,01/01/2014 12:00:00 AM,0
+5245,"Patternmakers - textile, leather and fur products",B,01/01/2014 12:00:00 AM,0
+5251,Athletes,B,01/01/2014 12:00:00 AM,1
+5252,Coaches,B,01/01/2014 12:00:00 AM,1
+5253,Sports officials and referees,B,01/01/2014 12:00:00 AM,0
+5254,"Program leaders and instructors in recreation, sport and fitness",B,01/01/2014 12:00:00 AM,0
+6211,Retail sales supervisors,B,01/01/2014 12:00:00 AM,3
+6221,Technical sales specialists - wholesale trade,B,01/01/2014 12:00:00 AM,5
+6222,Retail and wholesale buyers,B,01/01/2014 12:00:00 AM,2
+6231,Insurance agents and brokers,B,01/01/2014 12:00:00 AM,1
+6232,Real estate agents and salespersons,B,01/01/2014 12:00:00 AM,0
+6235,Financial sales representatives,B,01/01/2014 12:00:00 AM,2
+6311,Food service supervisors,B,01/01/2014 12:00:00 AM,60
+6312,Executive housekeepers,B,01/01/2014 12:00:00 AM,0
+6313,"Accommodation, travel, tourism and related services supervisors",B,01/01/2014 12:00:00 AM,1
+6314,Customer and information services supervisors,B,01/01/2014 12:00:00 AM,0
+6315,Cleaning supervisors,B,01/01/2014 12:00:00 AM,1
+6316,Other services supervisors,B,01/01/2014 12:00:00 AM,1
+6321,Chefs,B,01/01/2014 12:00:00 AM,2
+6322,Cooks,B,01/01/2014 12:00:00 AM,57
+6331,"Butchers, meat cutters and fishmongers - retail and wholesale",B,01/01/2014 12:00:00 AM,2
+6332,Bakers,B,01/01/2014 12:00:00 AM,3
+6341,Hairstylists and barbers,B,01/01/2014 12:00:00 AM,3
+6342,"Tailors, dressmakers, furriers and milliners",B,01/01/2014 12:00:00 AM,0
+6343,Shoe repairers and shoemakers,B,01/01/2014 12:00:00 AM,0
+6344,"Jewellers, jewellery and watch repairers and related occupations",B,01/01/2014 12:00:00 AM,0
+6345,Upholsterers,B,01/01/2014 12:00:00 AM,0
+6346,Funeral directors and embalmers,B,01/01/2014 12:00:00 AM,0
+6411,Sales and account representatives - wholesale trade (non-technical),C,01/01/2014 12:00:00 AM,1
+6421,Retail salespersons,C,01/01/2014 12:00:00 AM,2
+6511,Maîtres d'hôtel and hosts/hostesses,C,01/01/2014 12:00:00 AM,0
+6512,Bartenders,C,01/01/2014 12:00:00 AM,0
+6513,Food and beverage servers,C,01/01/2014 12:00:00 AM,1
+6521,Travel counsellors,C,01/01/2014 12:00:00 AM,0
+6522,Pursers and flight attendants,C,01/01/2014 12:00:00 AM,0
+6523,Airline ticket and service agents,C,01/01/2014 12:00:00 AM,0
+6524,"Ground and water transport ticket agents, cargo service representatives and related clerks",C,01/01/2014 12:00:00 AM,0
+6525,Hotel front desk clerks,C,01/01/2014 12:00:00 AM,3
+6531,Tour and travel guides,C,01/01/2014 12:00:00 AM,0
+6532,Outdoor sport and recreational guides,C,01/01/2014 12:00:00 AM,0
+6533,Casino occupations,C,01/01/2014 12:00:00 AM,0
+6541,Security guards and related security service occupations,C,01/01/2014 12:00:00 AM,1
+6551,Customer services representatives - financial institutions,C,01/01/2014 12:00:00 AM,4
+6552,Other customer and information services representatives,C,01/01/2014 12:00:00 AM,0
+6561,"Image, social and other personal consultants",C,01/01/2014 12:00:00 AM,0
+6562,"Estheticians, electrologists and related occupations",C,01/01/2014 12:00:00 AM,0
+6563,Pet groomers and animal care workers,C,01/01/2014 12:00:00 AM,1
+6564,Other personal service occupations,C,01/01/2014 12:00:00 AM,0
+6611,Cashiers,D,01/01/2014 12:00:00 AM,0
+6621,Service station attendants,D,01/01/2014 12:00:00 AM,0
+6622,"Store shelf stockers, clerks and order fillers",D,01/01/2014 12:00:00 AM,0
+6623,Other sales related occupations,D,01/01/2014 12:00:00 AM,0
+6711,"Food counter attendants, kitchen helpers and related support occupations",D,01/01/2014 12:00:00 AM,35
+6721,"Support occupations in accommodation, travel and facilities set-up services",D,01/01/2014 12:00:00 AM,0
+6722,"Operators and attendants in amusement, recreation and sport",D,01/01/2014 12:00:00 AM,0
+6731,Light duty cleaners,D,01/01/2014 12:00:00 AM,8
+6732,Specialized cleaners,D,01/01/2014 12:00:00 AM,1
+6733,"Janitors, caretakers and building superintendents",D,01/01/2014 12:00:00 AM,0
+6741,"Dry cleaning, laundry and related occupations",D,01/01/2014 12:00:00 AM,0
+6742,"Other service support occupations, n.e.c.",D,01/01/2014 12:00:00 AM,0
+7201,"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",B,01/01/2014 12:00:00 AM,0
+7202,"Contractors and supervisors, electrical trades and telecommunications occupations",B,01/01/2014 12:00:00 AM,0
+7203,"Contractors and supervisors, pipefitting trades",B,01/01/2014 12:00:00 AM,0
+7204,"Contractors and supervisors, carpentry trades",B,01/01/2014 12:00:00 AM,1
+7205,"Contractors and supervisors, other construction trades, installers, repairers and servicers",B,01/01/2014 12:00:00 AM,0
+7231,Machinists and machining and tooling inspectors,B,01/01/2014 12:00:00 AM,4
+7232,Tool and die makers,B,01/01/2014 12:00:00 AM,0
+7233,Sheet metal workers,B,01/01/2014 12:00:00 AM,0
+7234,Boilermakers,B,01/01/2014 12:00:00 AM,0
+7235,Structural metal and platework fabricators and fitters,B,01/01/2014 12:00:00 AM,2
+7236,Ironworkers,B,01/01/2014 12:00:00 AM,0
+7237,Welders and related machine operators,B,01/01/2014 12:00:00 AM,7
+7241,Electricians (except industrial and power system),B,01/01/2014 12:00:00 AM,3
+7242,Industrial electricians,B,01/01/2014 12:00:00 AM,1
+7243,Power system electricians,B,01/01/2014 12:00:00 AM,0
+7244,Electrical power line and cable workers,B,01/01/2014 12:00:00 AM,0
+7245,Telecommunications line and cable workers,B,01/01/2014 12:00:00 AM,1
+7246,Telecommunications installation and repair workers,B,01/01/2014 12:00:00 AM,1
+7247,Cable television service and maintenance technicians,B,01/01/2014 12:00:00 AM,0
+7251,Plumbers,B,01/01/2014 12:00:00 AM,1
+7252,"Steamfitters, pipefitters and sprinkler system installers",B,01/01/2014 12:00:00 AM,0
+7253,Gas fitters,B,01/01/2014 12:00:00 AM,0
+7271,Carpenters,B,01/01/2014 12:00:00 AM,1
+7272,Cabinetmakers,B,01/01/2014 12:00:00 AM,1
+7281,Bricklayers,B,01/01/2014 12:00:00 AM,2
+7282,Concrete finishers,B,01/01/2014 12:00:00 AM,0
+7283,Tilesetters,B,01/01/2014 12:00:00 AM,1
+7284,"Plasterers, drywall installers and finishers and lathers",B,01/01/2014 12:00:00 AM,0
+7291,Roofers and shinglers,B,01/01/2014 12:00:00 AM,0
+7292,Glaziers,B,01/01/2014 12:00:00 AM,0
+7293,Insulators,B,01/01/2014 12:00:00 AM,0
+7294,Painters and decorators (except interior decorators),B,01/01/2014 12:00:00 AM,1
+7295,Floor covering installers,B,01/01/2014 12:00:00 AM,0
+7301,"Contractors and supervisors, mechanic trades",B,01/01/2014 12:00:00 AM,1
+7302,"Contractors and supervisors, heavy equipment operator crews",B,01/01/2014 12:00:00 AM,0
+7303,"Supervisors, printing and related occupations",B,01/01/2014 12:00:00 AM,0
+7304,"Supervisors, railway transport operations",B,01/01/2014 12:00:00 AM,0
+7305,"Supervisors, motor transport and other ground transit operators",B,01/01/2014 12:00:00 AM,0
+7311,Construction millwrights and industrial mechanics,B,01/01/2014 12:00:00 AM,1
+7312,Heavy-duty equipment mechanics,B,01/01/2014 12:00:00 AM,0
+7313,Refrigeration and air conditioning mechanics,B,01/01/2014 12:00:00 AM,0
+7314,Railway carmen/women,B,01/01/2014 12:00:00 AM,0
+7315,Aircraft mechanics and aircraft inspectors,B,01/01/2014 12:00:00 AM,0
+7316,Machine fitters,B,01/01/2014 12:00:00 AM,0
+7318,Elevator constructors and mechanics,B,01/01/2014 12:00:00 AM,0
+7321,"Automotive service technicians, truck and bus mechanics and mechanical repairers",B,01/01/2014 12:00:00 AM,0
+7322,Motor vehicle body repairers,B,01/01/2014 12:00:00 AM,1
+7331,Oil and solid fuel heating mechanics,B,01/01/2014 12:00:00 AM,0
+7332,Appliance servicers and repairers,B,01/01/2014 12:00:00 AM,0
+7333,Electrical mechanics,B,01/01/2014 12:00:00 AM,0
+7334,"Motorcycle, all-terrain vehicle and other related mechanics",B,01/01/2014 12:00:00 AM,0
+7335,Other small engine and small equipment repairers,B,01/01/2014 12:00:00 AM,0
+7361,Railway and yard locomotive engineers,B,01/01/2014 12:00:00 AM,0
+7362,Railway conductors and brakemen/women,B,01/01/2014 12:00:00 AM,0
+7371,Crane operators,B,01/01/2014 12:00:00 AM,0
+7372,"Drillers and blasters - surface mining, quarrying and construction",B,01/01/2014 12:00:00 AM,0
+7373,Water well drillers,B,01/01/2014 12:00:00 AM,0
+7381,Printing press operators,B,01/01/2014 12:00:00 AM,0
+7384,"Other trades and related occupations, n.e.c.",B,01/01/2014 12:00:00 AM,0
+7441,Residential and commercial installers and servicers,C,01/01/2014 12:00:00 AM,0
+7442,Waterworks and gas maintenance workers,C,01/01/2014 12:00:00 AM,0
+7444,Pest controllers and fumigators,C,01/01/2014 12:00:00 AM,0
+7445,Other repairers and servicers,C,01/01/2014 12:00:00 AM,0
+7451,Longshore workers,C,01/01/2014 12:00:00 AM,0
+7452,Material handlers,C,01/01/2014 12:00:00 AM,2
+7511,Transport truck drivers,C,01/01/2014 12:00:00 AM,9
+7512,"Bus drivers, subway operators and other transit operators",C,01/01/2014 12:00:00 AM,0
+7513,Taxi and limousine drivers and chauffeurs,C,01/01/2014 12:00:00 AM,0
+7514,Delivery and courier service drivers,C,01/01/2014 12:00:00 AM,0
+7521,Heavy equipment operators (except crane),C,01/01/2014 12:00:00 AM,0
+7522,Public works maintenance equipment operators and related workers,C,01/01/2014 12:00:00 AM,0
+7531,Railway yard and track maintenance workers,C,01/01/2014 12:00:00 AM,0
+7532,Water transport deck and engine room crew,C,01/01/2014 12:00:00 AM,0
+7533,Boat and cable ferry operators and related occupations,C,01/01/2014 12:00:00 AM,0
+7534,Air transport ramp attendants,C,01/01/2014 12:00:00 AM,0
+7535,Other automotive mechanical installers and servicers,C,01/01/2014 12:00:00 AM,0
+7611,Construction trades helpers and labourers,D,01/01/2014 12:00:00 AM,1
+7612,Other trades helpers and labourers,D,01/01/2014 12:00:00 AM,1
+7621,Public works and maintenance labourers,D,01/01/2014 12:00:00 AM,0
+7622,Railway and motor transport labourers,D,01/01/2014 12:00:00 AM,0
+8211,"Supervisors, logging and forestry",B,01/01/2014 12:00:00 AM,0
+8221,"Supervisors, mining and quarrying",B,01/01/2014 12:00:00 AM,0
+8222,"Contractors and supervisors, oil and gas drilling and services",B,01/01/2014 12:00:00 AM,0
+8231,Underground production and development miners,B,01/01/2014 12:00:00 AM,0
+8232,"Oil and gas well drillers, servicers, testers and related workers",B,01/01/2014 12:00:00 AM,0
+8241,Logging machinery operators,B,01/01/2014 12:00:00 AM,0
+8252,"Agricultural service contractors, farm supervisors and specialized livestock workers",B,01/01/2014 12:00:00 AM,2
+8255,"Contractors and supervisors, landscaping, grounds maintenance and horticulture services",B,01/01/2014 12:00:00 AM,0
+8261,Fishing masters and officers,B,01/01/2014 12:00:00 AM,0
+8262,Fishermen/women,B,01/01/2014 12:00:00 AM,0
+8411,Underground mine service and support workers,C,01/01/2014 12:00:00 AM,0
+8412,Oil and gas well drilling and related workers and services operators,C,01/01/2014 12:00:00 AM,0
+8421,Chain saw and skidder operators,C,01/01/2014 12:00:00 AM,0
+8422,Silviculture and forestry workers,C,01/01/2014 12:00:00 AM,0
+8431,General farm workers,C,01/01/2014 12:00:00 AM,0
+8432,Nursery and greenhouse workers,C,01/01/2014 12:00:00 AM,0
+8441,Fishing vessel deckhands,C,01/01/2014 12:00:00 AM,0
+8442,Trappers and hunters,C,01/01/2014 12:00:00 AM,0
+8611,Harvesting labourers,D,01/01/2014 12:00:00 AM,0
+8612,Landscaping and grounds maintenance labourers,D,01/01/2014 12:00:00 AM,0
+8613,Aquaculture and marine harvest labourers,D,01/01/2014 12:00:00 AM,1
+8614,Mine labourers,D,01/01/2014 12:00:00 AM,0
+8615,"Oil and gas drilling, servicing and related labourers",D,01/01/2014 12:00:00 AM,0
+8616,Logging and forestry labourers,D,01/01/2014 12:00:00 AM,0
+9211,"Supervisors, mineral and metal processing",B,01/01/2014 12:00:00 AM,0
+9212,"Supervisors, petroleum, gas and chemical processing and utilities",B,01/01/2014 12:00:00 AM,0
+9213,"Supervisors, food, beverage and associated products processing",B,01/01/2014 12:00:00 AM,0
+9214,"Supervisors, plastic and rubber products manufacturing",B,01/01/2014 12:00:00 AM,0
+9215,"Supervisors, forest products processing",B,01/01/2014 12:00:00 AM,0
+9217,"Supervisors, textile, fabric, fur and leather products processing and manufacturing",B,01/01/2014 12:00:00 AM,0
+9221,"Supervisors, motor vehicle assembling",B,01/01/2014 12:00:00 AM,0
+9222,"Supervisors, electronics manufacturing",B,01/01/2014 12:00:00 AM,2
+9223,"Supervisors, electrical products manufacturing",B,01/01/2014 12:00:00 AM,0
+9224,"Supervisors, furniture and fixtures manufacturing",B,01/01/2014 12:00:00 AM,0
+9226,"Supervisors, other mechanical and metal products manufacturing",B,01/01/2014 12:00:00 AM,0
+9227,"Supervisors, other products manufacturing and assembly",B,01/01/2014 12:00:00 AM,0
+9231,"Central control and process operators, mineral and metal processing",B,01/01/2014 12:00:00 AM,0
+9232,"Petroleum, gas and chemical process operators",B,01/01/2014 12:00:00 AM,0
+9235,"Pulping, papermaking and coating control operators",B,01/01/2014 12:00:00 AM,0
+9241,Power engineers and power systems operators,B,01/01/2014 12:00:00 AM,0
+9243,Water and waste treatment plant operators,B,01/01/2014 12:00:00 AM,0
+9411,"Machine operators, mineral and metal processing",C,01/01/2014 12:00:00 AM,0
+9412,Foundry workers,C,01/01/2014 12:00:00 AM,0
+9413,Glass forming and finishing machine operators and glass cutters,C,01/01/2014 12:00:00 AM,0
+9414,"Concrete, clay and stone forming operators",C,01/01/2014 12:00:00 AM,0
+9415,"Inspectors and testers, mineral and metal processing",C,01/01/2014 12:00:00 AM,0
+9416,Metalworking and forging machine operators,C,01/01/2014 12:00:00 AM,0
+9417,Machining tool operators,C,01/01/2014 12:00:00 AM,0
+9418,Other metal products machine operators,C,01/01/2014 12:00:00 AM,0
+9421,Chemical plant machine operators,C,01/01/2014 12:00:00 AM,0
+9422,Plastics processing machine operators,C,01/01/2014 12:00:00 AM,0
+9423,Rubber processing machine operators and related workers,C,01/01/2014 12:00:00 AM,0
+9431,Sawmill machine operators,C,01/01/2014 12:00:00 AM,0
+9432,Pulp mill machine operators,C,01/01/2014 12:00:00 AM,0
+9433,Papermaking and finishing machine operators,C,01/01/2014 12:00:00 AM,0
+9434,Other wood processing machine operators,C,01/01/2014 12:00:00 AM,0
+9435,Paper converting machine operators,C,01/01/2014 12:00:00 AM,0
+9436,Lumber graders and other wood processing inspectors and graders,C,01/01/2014 12:00:00 AM,0
+9437,Woodworking machine operators,C,01/01/2014 12:00:00 AM,0
+9441,"Textile fibre and yarn, hide and pelt processing machine operators and workers",C,01/01/2014 12:00:00 AM,0
+9442,"Weavers, knitters and other fabric making occupations",C,01/01/2014 12:00:00 AM,0
+9445,"Fabric, fur and leather cutters",C,01/01/2014 12:00:00 AM,0
+9446,Industrial sewing machine operators,C,01/01/2014 12:00:00 AM,5
+9447,"Inspectors and graders, textile, fabric, fur and leather products manufacturing",C,01/01/2014 12:00:00 AM,0
+9461,"Process control and machine operators, food, beverage and associated products processing",C,01/01/2014 12:00:00 AM,0
+9462,"Industrial butchers and meat cutters, poultry preparers and related workers",C,01/01/2014 12:00:00 AM,0
+9463,Fish and seafood plant workers,C,01/01/2014 12:00:00 AM,3
+9465,"Testers and graders, food, beverage and associated products processing",C,01/01/2014 12:00:00 AM,0
+9471,Plateless printing equipment operators,C,01/01/2014 12:00:00 AM,0
+9472,"Camera, platemaking and other prepress occupations",C,01/01/2014 12:00:00 AM,0
+9473,Binding and finishing machine operators,C,01/01/2014 12:00:00 AM,0
+9474,Photographic and film processors,C,01/01/2014 12:00:00 AM,0
+9521,Aircraft assemblers and aircraft assembly inspectors,C,01/01/2014 12:00:00 AM,0
+9522,"Motor vehicle assemblers, inspectors and testers",C,01/01/2014 12:00:00 AM,0
+9523,"Electronics assemblers, fabricators, inspectors and testers",C,01/01/2014 12:00:00 AM,0
+9524,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",C,01/01/2014 12:00:00 AM,0
+9525,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",C,01/01/2014 12:00:00 AM,0
+9526,Mechanical assemblers and inspectors,C,01/01/2014 12:00:00 AM,0
+9527,"Machine operators and inspectors, electrical apparatus manufacturing",C,01/01/2014 12:00:00 AM,0
+9531,Boat assemblers and inspectors,C,01/01/2014 12:00:00 AM,0
+9532,Furniture and fixture assemblers and inspectors,C,01/01/2014 12:00:00 AM,0
+9533,Other wood products assemblers and inspectors,C,01/01/2014 12:00:00 AM,0
+9534,Furniture finishers and refinishers,C,01/01/2014 12:00:00 AM,1
+9535,"Plastic products assemblers, finishers and inspectors",C,01/01/2014 12:00:00 AM,0
+9536,"Industrial painters, coaters and metal finishing process operators",C,01/01/2014 12:00:00 AM,0
+9537,"Other products assemblers, finishers and inspectors",C,01/01/2014 12:00:00 AM,0
+9611,Labourers in mineral and metal processing,D,01/01/2014 12:00:00 AM,0
+9612,Labourers in metal fabrication,D,01/01/2014 12:00:00 AM,0
+9613,Labourers in chemical products processing and utilities,D,01/01/2014 12:00:00 AM,0
+9614,"Labourers in wood, pulp and paper processing",D,01/01/2014 12:00:00 AM,0
+9615,Labourers in rubber and plastic products manufacturing,D,01/01/2014 12:00:00 AM,0
+9616,Labourers in textile processing,D,01/01/2014 12:00:00 AM,0
+9617,"Labourers in food, beverage and associated products processing",D,01/01/2014 12:00:00 AM,0
+9618,Labourers in fish and seafood processing,D,01/01/2014 12:00:00 AM,2
+9619,"Other labourers in processing, manufacturing and utilities",D,01/01/2014 12:00:00 AM,0
+11,Legislators,0,01/01/2015 12:00:00 AM,0
+12,Senior government managers and officials,0,01/01/2015 12:00:00 AM,0
+13,"Senior managers - financial, communications and other business services",0,01/01/2015 12:00:00 AM,2
+14,"Senior managers - health, education, social and community services and membership organizations",0,01/01/2015 12:00:00 AM,0
+15,"Senior managers - trade, broadcasting and other services, n.e.c.",0,01/01/2015 12:00:00 AM,2
+16,"Senior managers - construction, transportation, production and utilities",0,01/01/2015 12:00:00 AM,4
+111,Financial managers,0,01/01/2015 12:00:00 AM,3
+112,Human resources managers,0,01/01/2015 12:00:00 AM,0
+113,Purchasing managers,0,01/01/2015 12:00:00 AM,0
+114,Other administrative services managers,0,01/01/2015 12:00:00 AM,2
+121,"Insurance, real estate and financial brokerage managers",0,01/01/2015 12:00:00 AM,0
+122,"Banking, credit and other investment managers",0,01/01/2015 12:00:00 AM,0
+124,"Advertising, marketing and public relations managers",0,01/01/2015 12:00:00 AM,4
+125,Other business services managers,0,01/01/2015 12:00:00 AM,2
+131,Telecommunication carriers managers,0,01/01/2015 12:00:00 AM,0
+132,Postal and courier services managers,0,01/01/2015 12:00:00 AM,0
+211,Engineering managers,0,01/01/2015 12:00:00 AM,2
+212,Architecture and science managers,0,01/01/2015 12:00:00 AM,0
+213,Computer and information systems managers,0,01/01/2015 12:00:00 AM,2
+311,Managers in health care,0,01/01/2015 12:00:00 AM,1
+411,Government managers - health and social policy development and program administration,0,01/01/2015 12:00:00 AM,0
+412,"Government managers - economic analysis, policy development and program administration",0,01/01/2015 12:00:00 AM,1
+413,Government managers - education policy development and program administration,0,01/01/2015 12:00:00 AM,0
+414,Other managers in public administration,0,01/01/2015 12:00:00 AM,0
+421,Administrators - post-secondary education and vocational training,0,01/01/2015 12:00:00 AM,1
+422,School principals and administrators of elementary and secondary education,0,01/01/2015 12:00:00 AM,0
+423,"Managers in social, community and correctional services",0,01/01/2015 12:00:00 AM,0
+431,Commissioned police officers,0,01/01/2015 12:00:00 AM,0
+432,Fire chiefs and senior firefighting officers,0,01/01/2015 12:00:00 AM,0
+433,Commissioned officers of the Canadian Forces,0,01/01/2015 12:00:00 AM,0
+511,"Library, archive, museum and art gallery managers",0,01/01/2015 12:00:00 AM,0
+512,"Managers - publishing, motion pictures, broadcasting and performing arts",0,01/01/2015 12:00:00 AM,0
+513,"Recreation, sports and fitness program and service directors",0,01/01/2015 12:00:00 AM,0
+601,Corporate sales managers,0,01/01/2015 12:00:00 AM,1
+621,Retail and wholesale trade managers,0,01/01/2015 12:00:00 AM,5
+631,Restaurant and food service managers,0,01/01/2015 12:00:00 AM,20
+632,Accommodation service managers,0,01/01/2015 12:00:00 AM,2
+651,"Managers in customer and personal services, n.e.c.",0,01/01/2015 12:00:00 AM,0
+711,Construction managers,0,01/01/2015 12:00:00 AM,0
+712,Home building and renovation managers,0,01/01/2015 12:00:00 AM,0
+714,Facility operation and maintenance managers,0,01/01/2015 12:00:00 AM,1
+731,Managers in transportation,0,01/01/2015 12:00:00 AM,0
+811,Managers in natural resources production and fishing,0,01/01/2015 12:00:00 AM,0
+821,Managers in agriculture,0,01/01/2015 12:00:00 AM,0
+822,Managers in horticulture,0,01/01/2015 12:00:00 AM,0
+823,Managers in aquaculture,0,01/01/2015 12:00:00 AM,0
+911,Manufacturing managers,0,01/01/2015 12:00:00 AM,3
+912,Utilities managers,0,01/01/2015 12:00:00 AM,0
+1111,Financial auditors and accountants,A,01/01/2015 12:00:00 AM,73
+1112,Financial and investment analysts,A,01/01/2015 12:00:00 AM,34
+1113,"Securities agents, investment dealers and brokers",A,01/01/2015 12:00:00 AM,0
+1114,Other financial officers,A,01/01/2015 12:00:00 AM,2
+1121,Human resources professionals,A,01/01/2015 12:00:00 AM,17
+1122,Professional occupations in business management consulting,A,01/01/2015 12:00:00 AM,0
+1123,"Professional occupations in advertising, marketing and public relations",A,01/01/2015 12:00:00 AM,4
+1211,"Supervisors, general office and administrative support workers",B,01/01/2015 12:00:00 AM,0
+1212,"Supervisors, finance and insurance office workers",B,01/01/2015 12:00:00 AM,3
+1213,"Supervisors, library, correspondence and related information workers",B,01/01/2015 12:00:00 AM,0
+1214,"Supervisors, mail and message distribution occupations",B,01/01/2015 12:00:00 AM,0
+1215,"Supervisors, supply chain, tracking and scheduling co-ordination occupations",B,01/01/2015 12:00:00 AM,2
+1221,Administrative officers,B,01/01/2015 12:00:00 AM,6
+1222,Executive assistants,B,01/01/2015 12:00:00 AM,2
+1223,Human resources and recruitment officers,B,01/01/2015 12:00:00 AM,1
+1224,Property administrators,B,01/01/2015 12:00:00 AM,1
+1225,Purchasing agents and officers,B,01/01/2015 12:00:00 AM,14
+1226,Conference and event planners,B,01/01/2015 12:00:00 AM,1
+1227,Court officers and justices of the peace,B,01/01/2015 12:00:00 AM,0
+1228,"Employment insurance, immigration, border services and revenue officers",B,01/01/2015 12:00:00 AM,0
+1241,Administrative assistants,B,01/01/2015 12:00:00 AM,2
+1242,Legal administrative assistants,B,01/01/2015 12:00:00 AM,0
+1243,Medical administrative assistants,B,01/01/2015 12:00:00 AM,0
+1251,"Court reporters, medical transcriptionists and related occupations",B,01/01/2015 12:00:00 AM,0
+1252,Health information management occupations,B,01/01/2015 12:00:00 AM,0
+1253,Records management technicians,B,01/01/2015 12:00:00 AM,0
+1254,Statistical officers and related research support occupations,B,01/01/2015 12:00:00 AM,0
+1311,Accounting technicians and bookkeepers,B,01/01/2015 12:00:00 AM,67
+1312,Insurance adjusters and claims examiners,B,01/01/2015 12:00:00 AM,0
+1313,Insurance underwriters,B,01/01/2015 12:00:00 AM,0
+1314,"Assessors, valuators and appraisers",B,01/01/2015 12:00:00 AM,0
+1315,"Customs, ship and other brokers",B,01/01/2015 12:00:00 AM,0
+1411,General office support workers,C,01/01/2015 12:00:00 AM,0
+1414,Receptionists,C,01/01/2015 12:00:00 AM,0
+1415,Personnel clerks,C,01/01/2015 12:00:00 AM,0
+1416,Court clerks,C,01/01/2015 12:00:00 AM,0
+1422,Data entry clerks,C,01/01/2015 12:00:00 AM,0
+1423,Desktop publishing operators and related occupations,C,01/01/2015 12:00:00 AM,0
+1431,Accounting and related clerks,C,01/01/2015 12:00:00 AM,0
+1432,Payroll clerks,C,01/01/2015 12:00:00 AM,0
+1434,"Banking, insurance and other financial clerks",C,01/01/2015 12:00:00 AM,1
+1435,Collectors,C,01/01/2015 12:00:00 AM,0
+1451,Library assistants and clerks,C,01/01/2015 12:00:00 AM,0
+1452,"Correspondence, publication and regulatory clerks",C,01/01/2015 12:00:00 AM,0
+1454,Survey interviewers and statistical clerks,C,01/01/2015 12:00:00 AM,0
+1511,"Mail, postal and related workers",C,01/01/2015 12:00:00 AM,0
+1512,Letter carriers,C,01/01/2015 12:00:00 AM,0
+1513,"Couriers, messengers and door-to-door distributors",C,01/01/2015 12:00:00 AM,0
+1521,Shippers and receivers,C,01/01/2015 12:00:00 AM,0
+1522,Storekeepers and partspersons,C,01/01/2015 12:00:00 AM,0
+1523,Production logistics co-ordinators,C,01/01/2015 12:00:00 AM,0
+1524,Purchasing and inventory control workers,C,01/01/2015 12:00:00 AM,1
+1525,Dispatchers,C,01/01/2015 12:00:00 AM,0
+1526,Transportation route and crew schedulers,C,01/01/2015 12:00:00 AM,0
+2111,Physicists and astronomers,A,01/01/2015 12:00:00 AM,0
+2112,Chemists,A,01/01/2015 12:00:00 AM,3
+2113,Geoscientists and oceanographers,A,01/01/2015 12:00:00 AM,4
+2114,Meteorologists and climatologists,A,01/01/2015 12:00:00 AM,0
+2115,Other professional occupations in physical sciences,A,01/01/2015 12:00:00 AM,0
+2121,Biologists and related scientists,A,01/01/2015 12:00:00 AM,0
+2122,Forestry professionals,A,01/01/2015 12:00:00 AM,0
+2123,"Agricultural representatives, consultants and specialists",A,01/01/2015 12:00:00 AM,0
+2131,Civil engineers,A,01/01/2015 12:00:00 AM,12
+2132,Mechanical engineers,A,01/01/2015 12:00:00 AM,25
+2133,Electrical and electronics engineers,A,01/01/2015 12:00:00 AM,21
+2134,Chemical engineers,A,01/01/2015 12:00:00 AM,1
+2141,Industrial and manufacturing engineers,A,01/01/2015 12:00:00 AM,4
+2142,Metallurgical and materials engineers,A,01/01/2015 12:00:00 AM,1
+2143,Mining engineers,A,01/01/2015 12:00:00 AM,0
+2144,Geological engineers,A,01/01/2015 12:00:00 AM,0
+2145,Petroleum engineers,A,01/01/2015 12:00:00 AM,0
+2146,Aerospace engineers,A,01/01/2015 12:00:00 AM,0
+2147,Computer engineers (except software engineers and designers),A,01/01/2015 12:00:00 AM,13
+2148,"Other professional engineers, n.e.c.",A,01/01/2015 12:00:00 AM,0
+2151,Architects,A,01/01/2015 12:00:00 AM,1
+2152,Landscape architects,A,01/01/2015 12:00:00 AM,0
+2153,Urban and land use planners,A,01/01/2015 12:00:00 AM,0
+2154,Land surveyors,A,01/01/2015 12:00:00 AM,0
+2161,"Mathematicians, statisticians and actuaries",A,01/01/2015 12:00:00 AM,0
+2171,Information systems analysts and consultants,A,01/01/2015 12:00:00 AM,94
+2172,Database analysts and data administrators,A,01/01/2015 12:00:00 AM,22
+2173,Software engineers and designers,A,01/01/2015 12:00:00 AM,96
+2174,Computer programmers and interactive media developers,A,01/01/2015 12:00:00 AM,89
+2175,Web designers and developers,A,01/01/2015 12:00:00 AM,8
+2211,Chemical technologists and technicians,B,01/01/2015 12:00:00 AM,2
+2212,Geological and mineral technologists and technicians,B,01/01/2015 12:00:00 AM,0
+2221,Biological technologists and technicians,B,01/01/2015 12:00:00 AM,5
+2222,Agricultural and fish products inspectors,B,01/01/2015 12:00:00 AM,0
+2223,Forestry technologists and technicians,B,01/01/2015 12:00:00 AM,0
+2224,Conservation and fishery officers,B,01/01/2015 12:00:00 AM,0
+2225,Landscape and horticulture technicians and specialists,B,01/01/2015 12:00:00 AM,1
+2231,Civil engineering technologists and technicians,B,01/01/2015 12:00:00 AM,0
+2232,Mechanical engineering technologists and technicians,B,01/01/2015 12:00:00 AM,4
+2233,Industrial engineering and manufacturing technologists and technicians,B,01/01/2015 12:00:00 AM,7
+2234,Construction estimators,B,01/01/2015 12:00:00 AM,0
+2241,Electrical and electronics engineering technologists and technicians,B,01/01/2015 12:00:00 AM,7
+2242,Electronic service technicians (household and business equipment),B,01/01/2015 12:00:00 AM,1
+2243,Industrial instrument technicians and mechanics,B,01/01/2015 12:00:00 AM,4
+2244,"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",B,01/01/2015 12:00:00 AM,1
+2251,Architectural technologists and technicians,B,01/01/2015 12:00:00 AM,0
+2252,Industrial designers,B,01/01/2015 12:00:00 AM,0
+2253,Drafting technologists and technicians,B,01/01/2015 12:00:00 AM,0
+2254,Land survey technologists and technicians,B,01/01/2015 12:00:00 AM,0
+2255,Technical occupations in geomatics and meteorology,B,01/01/2015 12:00:00 AM,1
+2261,Non-destructive testers and inspection technicians,B,01/01/2015 12:00:00 AM,0
+2262,Engineering inspectors and regulatory officers,B,01/01/2015 12:00:00 AM,0
+2263,Inspectors in public and environmental health and occupational health and safety,B,01/01/2015 12:00:00 AM,1
+2264,Construction inspectors,B,01/01/2015 12:00:00 AM,0
+2271,"Air pilots, flight engineers and flying instructors",B,01/01/2015 12:00:00 AM,0
+2272,Air traffic controllers and related occupations,B,01/01/2015 12:00:00 AM,0
+2273,"Deck officers, water transport",B,01/01/2015 12:00:00 AM,0
+2274,"Engineer officers, water transport",B,01/01/2015 12:00:00 AM,0
+2275,Railway traffic controllers and marine traffic regulators,B,01/01/2015 12:00:00 AM,0
+2281,Computer network technicians,B,01/01/2015 12:00:00 AM,2
+2282,User support technicians,B,01/01/2015 12:00:00 AM,32
+2283,Information systems testing technicians,B,01/01/2015 12:00:00 AM,17
+3011,Nursing co-ordinators and supervisors,A,01/01/2015 12:00:00 AM,0
+3012,Registered nurses and registered psychiatric nurses,A,01/01/2015 12:00:00 AM,41
+3111,Specialist physicians,A,01/01/2015 12:00:00 AM,6
+3112,General practitioners and family physicians,A,01/01/2015 12:00:00 AM,0
+3113,Dentists,A,01/01/2015 12:00:00 AM,0
+3114,Veterinarians,A,01/01/2015 12:00:00 AM,0
+3121,Optometrists,A,01/01/2015 12:00:00 AM,0
+3122,Chiropractors,A,01/01/2015 12:00:00 AM,0
+3124,Allied primary health practitioners,A,01/01/2015 12:00:00 AM,0
+3125,Other professional occupations in health diagnosing and treating,A,01/01/2015 12:00:00 AM,0
+3131,Pharmacists,A,01/01/2015 12:00:00 AM,0
+3132,Dietitians and nutritionists,A,01/01/2015 12:00:00 AM,0
+3141,Audiologists and speech-language pathologists,A,01/01/2015 12:00:00 AM,0
+3142,Physiotherapists,A,01/01/2015 12:00:00 AM,7
+3143,Occupational therapists,A,01/01/2015 12:00:00 AM,2
+3144,Other professional occupations in therapy and assessment,A,01/01/2015 12:00:00 AM,0
+3211,Medical laboratory technologists,B,01/01/2015 12:00:00 AM,7
+3212,Medical laboratory technicians and pathologists' assistants,B,01/01/2015 12:00:00 AM,0
+3213,Animal health technologists and veterinary technicians,B,01/01/2015 12:00:00 AM,0
+3214,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",B,01/01/2015 12:00:00 AM,0
+3215,Medical radiation technologists,B,01/01/2015 12:00:00 AM,0
+3216,Medical sonographers,B,01/01/2015 12:00:00 AM,0
+3217,"Cardiology technologists and electrophysiological diagnostic technologists, n.e.c.",B,01/01/2015 12:00:00 AM,0
+3219,Other medical technologists and technicians (except dental health),B,01/01/2015 12:00:00 AM,0
+3221,Denturists,B,01/01/2015 12:00:00 AM,0
+3222,Dental hygienists and dental therapists,B,01/01/2015 12:00:00 AM,0
+3223,"Dental technologists, technicians and laboratory assistants",B,01/01/2015 12:00:00 AM,1
+3231,Opticians,B,01/01/2015 12:00:00 AM,0
+3232,Practitioners of natural healing,B,01/01/2015 12:00:00 AM,1
+3233,Licensed practical nurses,B,01/01/2015 12:00:00 AM,34
+3234,Paramedical occupations,B,01/01/2015 12:00:00 AM,0
+3236,Massage therapists,B,01/01/2015 12:00:00 AM,0
+3237,Other technical occupations in therapy and assessment,B,01/01/2015 12:00:00 AM,0
+3411,Dental assistants,C,01/01/2015 12:00:00 AM,2
+3413,"Nurse aides, orderlies and patient service associates",C,01/01/2015 12:00:00 AM,55
+3414,Other assisting occupations in support of health services,C,01/01/2015 12:00:00 AM,0
+4011,University professors and lecturers,A,01/01/2015 12:00:00 AM,8
+4012,Post-secondary teaching and research assistants,A,01/01/2015 12:00:00 AM,3
+4021,College and other vocational instructors,A,01/01/2015 12:00:00 AM,1
+4031,Secondary school teachers,A,01/01/2015 12:00:00 AM,0
+4032,Elementary school and kindergarten teachers,A,01/01/2015 12:00:00 AM,0
+4033,Educational counsellors,A,01/01/2015 12:00:00 AM,2
+4111,Judges,A,01/01/2015 12:00:00 AM,0
+4112,Lawyers and Quebec notaries,A,01/01/2015 12:00:00 AM,2
+4151,Psychologists,A,01/01/2015 12:00:00 AM,3
+4152,Social workers,A,01/01/2015 12:00:00 AM,0
+4153,"Family, marriage and other related counsellors",A,01/01/2015 12:00:00 AM,2
+4154,Professional occupations in religion,A,01/01/2015 12:00:00 AM,3
+4155,Probation and parole officers and related occupations,A,01/01/2015 12:00:00 AM,0
+4156,Employment counsellors,A,01/01/2015 12:00:00 AM,1
+4161,"Natural and applied science policy researchers, consultants and program officers",A,01/01/2015 12:00:00 AM,0
+4162,Economists and economic policy researchers and analysts,A,01/01/2015 12:00:00 AM,0
+4163,Business development officers and marketing researchers and consultants,A,01/01/2015 12:00:00 AM,3
+4164,"Social policy researchers, consultants and program officers",A,01/01/2015 12:00:00 AM,1
+4165,"Health policy researchers, consultants and program officers",A,01/01/2015 12:00:00 AM,0
+4166,"Education policy researchers, consultants and program officers",A,01/01/2015 12:00:00 AM,1
+4167,"Recreation, sports and fitness policy researchers, consultants and program officers",A,01/01/2015 12:00:00 AM,0
+4168,Program officers unique to government,A,01/01/2015 12:00:00 AM,0
+4169,"Other professional occupations in social science, n.e.c.",A,01/01/2015 12:00:00 AM,0
+4211,Paralegal and related occupations,B,01/01/2015 12:00:00 AM,0
+4212,Social and community service workers,B,01/01/2015 12:00:00 AM,5
+4214,Early childhood educators and assistants,B,01/01/2015 12:00:00 AM,14
+4215,Instructors of persons with disabilities,B,01/01/2015 12:00:00 AM,0
+4216,Other instructors,B,01/01/2015 12:00:00 AM,0
+4217,Other religious occupations,B,01/01/2015 12:00:00 AM,0
+4311,Police officers (except commissioned),B,01/01/2015 12:00:00 AM,0
+4312,Firefighters,B,01/01/2015 12:00:00 AM,0
+4313,Non-commissioned ranks of the Canadian Forces,B,01/01/2015 12:00:00 AM,0
+4411,Home child care providers,C,01/01/2015 12:00:00 AM,1
+4412,"Home support workers, housekeepers and related occupations",C,01/01/2015 12:00:00 AM,4
+4413,Elementary and secondary school teacher assistants,C,01/01/2015 12:00:00 AM,0
+4421,Sheriffs and bailiffs,C,01/01/2015 12:00:00 AM,0
+4422,Correctional service officers,C,01/01/2015 12:00:00 AM,0
+4423,"By-law enforcement and other regulatory officers, n.e.c.",C,01/01/2015 12:00:00 AM,0
+5111,Librarians,A,01/01/2015 12:00:00 AM,0
+5112,Conservators and curators,A,01/01/2015 12:00:00 AM,0
+5113,Archivists,A,01/01/2015 12:00:00 AM,0
+5121,Authors and writers,A,01/01/2015 12:00:00 AM,0
+5122,Editors,A,01/01/2015 12:00:00 AM,0
+5123,Journalists,A,01/01/2015 12:00:00 AM,0
+5125,"Translators, terminologists and interpreters",A,01/01/2015 12:00:00 AM,0
+5131,"Producers, directors, choreographers and related occupations",A,01/01/2015 12:00:00 AM,0
+5132,"Conductors, composers and arrangers",A,01/01/2015 12:00:00 AM,0
+5133,Musicians and singers,A,01/01/2015 12:00:00 AM,1
+5134,Dancers,A,01/01/2015 12:00:00 AM,0
+5135,Actors and comedians,A,01/01/2015 12:00:00 AM,0
+5136,"Painters, sculptors and other visual artists",A,01/01/2015 12:00:00 AM,1
+5211,Library and public archive technicians,B,01/01/2015 12:00:00 AM,0
+5212,Technical occupations related to museums and art galleries,B,01/01/2015 12:00:00 AM,0
+5221,Photographers,B,01/01/2015 12:00:00 AM,1
+5222,Film and video camera operators,B,01/01/2015 12:00:00 AM,0
+5223,Graphic arts technicians,B,01/01/2015 12:00:00 AM,9
+5224,Broadcast technicians,B,01/01/2015 12:00:00 AM,0
+5225,Audio and video recording technicians,B,01/01/2015 12:00:00 AM,0
+5226,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",B,01/01/2015 12:00:00 AM,0
+5227,"Support occupations in motion pictures, broadcasting, photography and the performing arts",B,01/01/2015 12:00:00 AM,1
+5231,Announcers and other broadcasters,B,01/01/2015 12:00:00 AM,0
+5232,"Other performers, n.e.c.",B,01/01/2015 12:00:00 AM,0
+5241,Graphic designers and illustrators,B,01/01/2015 12:00:00 AM,14
+5242,Interior designers and interior decorators,B,01/01/2015 12:00:00 AM,1
+5243,"Theatre, fashion, exhibit and other creative designers",B,01/01/2015 12:00:00 AM,0
+5244,Artisans and craftspersons,B,01/01/2015 12:00:00 AM,0
+5245,"Patternmakers - textile, leather and fur products",B,01/01/2015 12:00:00 AM,0
+5251,Athletes,B,01/01/2015 12:00:00 AM,0
+5252,Coaches,B,01/01/2015 12:00:00 AM,0
+5253,Sports officials and referees,B,01/01/2015 12:00:00 AM,0
+5254,"Program leaders and instructors in recreation, sport and fitness",B,01/01/2015 12:00:00 AM,1
+6211,Retail sales supervisors,B,01/01/2015 12:00:00 AM,2
+6221,Technical sales specialists - wholesale trade,B,01/01/2015 12:00:00 AM,1
+6222,Retail and wholesale buyers,B,01/01/2015 12:00:00 AM,1
+6231,Insurance agents and brokers,B,01/01/2015 12:00:00 AM,1
+6232,Real estate agents and salespersons,B,01/01/2015 12:00:00 AM,0
+6235,Financial sales representatives,B,01/01/2015 12:00:00 AM,23
+6311,Food service supervisors,B,01/01/2015 12:00:00 AM,78
+6312,Executive housekeepers,B,01/01/2015 12:00:00 AM,0
+6313,"Accommodation, travel, tourism and related services supervisors",B,01/01/2015 12:00:00 AM,6
+6314,Customer and information services supervisors,B,01/01/2015 12:00:00 AM,3
+6315,Cleaning supervisors,B,01/01/2015 12:00:00 AM,4
+6316,Other services supervisors,B,01/01/2015 12:00:00 AM,1
+6321,Chefs,B,01/01/2015 12:00:00 AM,5
+6322,Cooks,B,01/01/2015 12:00:00 AM,90
+6331,"Butchers, meat cutters and fishmongers - retail and wholesale",B,01/01/2015 12:00:00 AM,0
+6332,Bakers,B,01/01/2015 12:00:00 AM,3
+6341,Hairstylists and barbers,B,01/01/2015 12:00:00 AM,1
+6342,"Tailors, dressmakers, furriers and milliners",B,01/01/2015 12:00:00 AM,1
+6343,Shoe repairers and shoemakers,B,01/01/2015 12:00:00 AM,0
+6344,"Jewellers, jewellery and watch repairers and related occupations",B,01/01/2015 12:00:00 AM,0
+6345,Upholsterers,B,01/01/2015 12:00:00 AM,0
+6346,Funeral directors and embalmers,B,01/01/2015 12:00:00 AM,0
+6411,Sales and account representatives - wholesale trade (non-technical),C,01/01/2015 12:00:00 AM,1
+6421,Retail salespersons,C,01/01/2015 12:00:00 AM,0
+6511,Maîtres d'hôtel and hosts/hostesses,C,01/01/2015 12:00:00 AM,0
+6512,Bartenders,C,01/01/2015 12:00:00 AM,0
+6513,Food and beverage servers,C,01/01/2015 12:00:00 AM,0
+6521,Travel counsellors,C,01/01/2015 12:00:00 AM,0
+6522,Pursers and flight attendants,C,01/01/2015 12:00:00 AM,0
+6523,Airline ticket and service agents,C,01/01/2015 12:00:00 AM,0
+6524,"Ground and water transport ticket agents, cargo service representatives and related clerks",C,01/01/2015 12:00:00 AM,0
+6525,Hotel front desk clerks,C,01/01/2015 12:00:00 AM,3
+6531,Tour and travel guides,C,01/01/2015 12:00:00 AM,0
+6532,Outdoor sport and recreational guides,C,01/01/2015 12:00:00 AM,0
+6533,Casino occupations,C,01/01/2015 12:00:00 AM,0
+6541,Security guards and related security service occupations,C,01/01/2015 12:00:00 AM,0
+6551,Customer services representatives - financial institutions,C,01/01/2015 12:00:00 AM,1
+6552,Other customer and information services representatives,C,01/01/2015 12:00:00 AM,6
+6561,"Image, social and other personal consultants",C,01/01/2015 12:00:00 AM,0
+6562,"Estheticians, electrologists and related occupations",C,01/01/2015 12:00:00 AM,0
+6563,Pet groomers and animal care workers,C,01/01/2015 12:00:00 AM,0
+6564,Other personal service occupations,C,01/01/2015 12:00:00 AM,0
+6611,Cashiers,D,01/01/2015 12:00:00 AM,0
+6621,Service station attendants,D,01/01/2015 12:00:00 AM,0
+6622,"Store shelf stockers, clerks and order fillers",D,01/01/2015 12:00:00 AM,0
+6623,Other sales related occupations,D,01/01/2015 12:00:00 AM,0
+6711,"Food counter attendants, kitchen helpers and related support occupations",D,01/01/2015 12:00:00 AM,12
+6721,"Support occupations in accommodation, travel and facilities set-up services",D,01/01/2015 12:00:00 AM,0
+6722,"Operators and attendants in amusement, recreation and sport",D,01/01/2015 12:00:00 AM,0
+6731,Light duty cleaners,D,01/01/2015 12:00:00 AM,7
+6732,Specialized cleaners,D,01/01/2015 12:00:00 AM,0
+6733,"Janitors, caretakers and building superintendents",D,01/01/2015 12:00:00 AM,0
+6741,"Dry cleaning, laundry and related occupations",D,01/01/2015 12:00:00 AM,0
+6742,"Other service support occupations, n.e.c.",D,01/01/2015 12:00:00 AM,0
+7201,"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",B,01/01/2015 12:00:00 AM,0
+7202,"Contractors and supervisors, electrical trades and telecommunications occupations",B,01/01/2015 12:00:00 AM,0
+7203,"Contractors and supervisors, pipefitting trades",B,01/01/2015 12:00:00 AM,0
+7204,"Contractors and supervisors, carpentry trades",B,01/01/2015 12:00:00 AM,0
+7205,"Contractors and supervisors, other construction trades, installers, repairers and servicers",B,01/01/2015 12:00:00 AM,1
+7231,Machinists and machining and tooling inspectors,B,01/01/2015 12:00:00 AM,3
+7232,Tool and die makers,B,01/01/2015 12:00:00 AM,0
+7233,Sheet metal workers,B,01/01/2015 12:00:00 AM,0
+7234,Boilermakers,B,01/01/2015 12:00:00 AM,0
+7235,Structural metal and platework fabricators and fitters,B,01/01/2015 12:00:00 AM,4
+7236,Ironworkers,B,01/01/2015 12:00:00 AM,0
+7237,Welders and related machine operators,B,01/01/2015 12:00:00 AM,5
+7241,Electricians (except industrial and power system),B,01/01/2015 12:00:00 AM,1
+7242,Industrial electricians,B,01/01/2015 12:00:00 AM,3
+7243,Power system electricians,B,01/01/2015 12:00:00 AM,0
+7244,Electrical power line and cable workers,B,01/01/2015 12:00:00 AM,1
+7245,Telecommunications line and cable workers,B,01/01/2015 12:00:00 AM,0
+7246,Telecommunications installation and repair workers,B,01/01/2015 12:00:00 AM,1
+7247,Cable television service and maintenance technicians,B,01/01/2015 12:00:00 AM,1
+7251,Plumbers,B,01/01/2015 12:00:00 AM,0
+7252,"Steamfitters, pipefitters and sprinkler system installers",B,01/01/2015 12:00:00 AM,0
+7253,Gas fitters,B,01/01/2015 12:00:00 AM,0
+7271,Carpenters,B,01/01/2015 12:00:00 AM,2
+7272,Cabinetmakers,B,01/01/2015 12:00:00 AM,0
+7281,Bricklayers,B,01/01/2015 12:00:00 AM,0
+7282,Concrete finishers,B,01/01/2015 12:00:00 AM,0
+7283,Tilesetters,B,01/01/2015 12:00:00 AM,0
+7284,"Plasterers, drywall installers and finishers and lathers",B,01/01/2015 12:00:00 AM,0
+7291,Roofers and shinglers,B,01/01/2015 12:00:00 AM,1
+7292,Glaziers,B,01/01/2015 12:00:00 AM,0
+7293,Insulators,B,01/01/2015 12:00:00 AM,0
+7294,Painters and decorators (except interior decorators),B,01/01/2015 12:00:00 AM,0
+7295,Floor covering installers,B,01/01/2015 12:00:00 AM,1
+7301,"Contractors and supervisors, mechanic trades",B,01/01/2015 12:00:00 AM,0
+7302,"Contractors and supervisors, heavy equipment operator crews",B,01/01/2015 12:00:00 AM,1
+7303,"Supervisors, printing and related occupations",B,01/01/2015 12:00:00 AM,0
+7304,"Supervisors, railway transport operations",B,01/01/2015 12:00:00 AM,0
+7305,"Supervisors, motor transport and other ground transit operators",B,01/01/2015 12:00:00 AM,0
+7311,Construction millwrights and industrial mechanics,B,01/01/2015 12:00:00 AM,1
+7312,Heavy-duty equipment mechanics,B,01/01/2015 12:00:00 AM,1
+7313,Refrigeration and air conditioning mechanics,B,01/01/2015 12:00:00 AM,2
+7314,Railway carmen/women,B,01/01/2015 12:00:00 AM,0
+7315,Aircraft mechanics and aircraft inspectors,B,01/01/2015 12:00:00 AM,3
+7316,Machine fitters,B,01/01/2015 12:00:00 AM,0
+7318,Elevator constructors and mechanics,B,01/01/2015 12:00:00 AM,0
+7321,"Automotive service technicians, truck and bus mechanics and mechanical repairers",B,01/01/2015 12:00:00 AM,4
+7322,Motor vehicle body repairers,B,01/01/2015 12:00:00 AM,1
+7331,Oil and solid fuel heating mechanics,B,01/01/2015 12:00:00 AM,0
+7332,Appliance servicers and repairers,B,01/01/2015 12:00:00 AM,0
+7333,Electrical mechanics,B,01/01/2015 12:00:00 AM,0
+7334,"Motorcycle, all-terrain vehicle and other related mechanics",B,01/01/2015 12:00:00 AM,0
+7335,Other small engine and small equipment repairers,B,01/01/2015 12:00:00 AM,0
+7361,Railway and yard locomotive engineers,B,01/01/2015 12:00:00 AM,0
+7362,Railway conductors and brakemen/women,B,01/01/2015 12:00:00 AM,0
+7371,Crane operators,B,01/01/2015 12:00:00 AM,0
+7372,"Drillers and blasters - surface mining, quarrying and construction",B,01/01/2015 12:00:00 AM,0
+7373,Water well drillers,B,01/01/2015 12:00:00 AM,0
+7381,Printing press operators,B,01/01/2015 12:00:00 AM,0
+7384,"Other trades and related occupations, n.e.c.",B,01/01/2015 12:00:00 AM,0
+7441,Residential and commercial installers and servicers,C,01/01/2015 12:00:00 AM,0
+7442,Waterworks and gas maintenance workers,C,01/01/2015 12:00:00 AM,0
+7444,Pest controllers and fumigators,C,01/01/2015 12:00:00 AM,0
+7445,Other repairers and servicers,C,01/01/2015 12:00:00 AM,0
+7451,Longshore workers,C,01/01/2015 12:00:00 AM,0
+7452,Material handlers,C,01/01/2015 12:00:00 AM,0
+7511,Transport truck drivers,C,01/01/2015 12:00:00 AM,37
+7512,"Bus drivers, subway operators and other transit operators",C,01/01/2015 12:00:00 AM,0
+7513,Taxi and limousine drivers and chauffeurs,C,01/01/2015 12:00:00 AM,0
+7514,Delivery and courier service drivers,C,01/01/2015 12:00:00 AM,0
+7521,Heavy equipment operators (except crane),C,01/01/2015 12:00:00 AM,0
+7522,Public works maintenance equipment operators and related workers,C,01/01/2015 12:00:00 AM,0
+7531,Railway yard and track maintenance workers,C,01/01/2015 12:00:00 AM,0
+7532,Water transport deck and engine room crew,C,01/01/2015 12:00:00 AM,0
+7533,Boat and cable ferry operators and related occupations,C,01/01/2015 12:00:00 AM,0
+7534,Air transport ramp attendants,C,01/01/2015 12:00:00 AM,0
+7535,Other automotive mechanical installers and servicers,C,01/01/2015 12:00:00 AM,0
+7611,Construction trades helpers and labourers,D,01/01/2015 12:00:00 AM,1
+7612,Other trades helpers and labourers,D,01/01/2015 12:00:00 AM,0
+7621,Public works and maintenance labourers,D,01/01/2015 12:00:00 AM,0
+7622,Railway and motor transport labourers,D,01/01/2015 12:00:00 AM,0
+8211,"Supervisors, logging and forestry",B,01/01/2015 12:00:00 AM,0
+8221,"Supervisors, mining and quarrying",B,01/01/2015 12:00:00 AM,0
+8222,"Contractors and supervisors, oil and gas drilling and services",B,01/01/2015 12:00:00 AM,0
+8231,Underground production and development miners,B,01/01/2015 12:00:00 AM,0
+8232,"Oil and gas well drillers, servicers, testers and related workers",B,01/01/2015 12:00:00 AM,0
+8241,Logging machinery operators,B,01/01/2015 12:00:00 AM,0
+8252,"Agricultural service contractors, farm supervisors and specialized livestock workers",B,01/01/2015 12:00:00 AM,5
+8255,"Contractors and supervisors, landscaping, grounds maintenance and horticulture services",B,01/01/2015 12:00:00 AM,0
+8261,Fishing masters and officers,B,01/01/2015 12:00:00 AM,0
+8262,Fishermen/women,B,01/01/2015 12:00:00 AM,0
+8411,Underground mine service and support workers,C,01/01/2015 12:00:00 AM,0
+8412,Oil and gas well drilling and related workers and services operators,C,01/01/2015 12:00:00 AM,0
+8421,Chain saw and skidder operators,C,01/01/2015 12:00:00 AM,0
+8422,Silviculture and forestry workers,C,01/01/2015 12:00:00 AM,0
+8431,General farm workers,C,01/01/2015 12:00:00 AM,0
+8432,Nursery and greenhouse workers,C,01/01/2015 12:00:00 AM,0
+8441,Fishing vessel deckhands,C,01/01/2015 12:00:00 AM,0
+8442,Trappers and hunters,C,01/01/2015 12:00:00 AM,0
+8611,Harvesting labourers,D,01/01/2015 12:00:00 AM,0
+8612,Landscaping and grounds maintenance labourers,D,01/01/2015 12:00:00 AM,0
+8613,Aquaculture and marine harvest labourers,D,01/01/2015 12:00:00 AM,0
+8614,Mine labourers,D,01/01/2015 12:00:00 AM,0
+8615,"Oil and gas drilling, servicing and related labourers",D,01/01/2015 12:00:00 AM,0
+8616,Logging and forestry labourers,D,01/01/2015 12:00:00 AM,0
+9211,"Supervisors, mineral and metal processing",B,01/01/2015 12:00:00 AM,0
+9212,"Supervisors, petroleum, gas and chemical processing and utilities",B,01/01/2015 12:00:00 AM,0
+9213,"Supervisors, food, beverage and associated products processing",B,01/01/2015 12:00:00 AM,1
+9214,"Supervisors, plastic and rubber products manufacturing",B,01/01/2015 12:00:00 AM,0
+9215,"Supervisors, forest products processing",B,01/01/2015 12:00:00 AM,0
+9217,"Supervisors, textile, fabric, fur and leather products processing and manufacturing",B,01/01/2015 12:00:00 AM,0
+9221,"Supervisors, motor vehicle assembling",B,01/01/2015 12:00:00 AM,0
+9222,"Supervisors, electronics manufacturing",B,01/01/2015 12:00:00 AM,0
+9223,"Supervisors, electrical products manufacturing",B,01/01/2015 12:00:00 AM,0
+9224,"Supervisors, furniture and fixtures manufacturing",B,01/01/2015 12:00:00 AM,0
+9226,"Supervisors, other mechanical and metal products manufacturing",B,01/01/2015 12:00:00 AM,0
+9227,"Supervisors, other products manufacturing and assembly",B,01/01/2015 12:00:00 AM,0
+9231,"Central control and process operators, mineral and metal processing",B,01/01/2015 12:00:00 AM,0
+9232,"Petroleum, gas and chemical process operators",B,01/01/2015 12:00:00 AM,0
+9235,"Pulping, papermaking and coating control operators",B,01/01/2015 12:00:00 AM,0
+9241,Power engineers and power systems operators,B,01/01/2015 12:00:00 AM,2
+9243,Water and waste treatment plant operators,B,01/01/2015 12:00:00 AM,0
+9411,"Machine operators, mineral and metal processing",C,01/01/2015 12:00:00 AM,0
+9412,Foundry workers,C,01/01/2015 12:00:00 AM,0
+9413,Glass forming and finishing machine operators and glass cutters,C,01/01/2015 12:00:00 AM,0
+9414,"Concrete, clay and stone forming operators",C,01/01/2015 12:00:00 AM,0
+9415,"Inspectors and testers, mineral and metal processing",C,01/01/2015 12:00:00 AM,0
+9416,Metalworking and forging machine operators,C,01/01/2015 12:00:00 AM,0
+9417,Machining tool operators,C,01/01/2015 12:00:00 AM,0
+9418,Other metal products machine operators,C,01/01/2015 12:00:00 AM,0
+9421,Chemical plant machine operators,C,01/01/2015 12:00:00 AM,0
+9422,Plastics processing machine operators,C,01/01/2015 12:00:00 AM,0
+9423,Rubber processing machine operators and related workers,C,01/01/2015 12:00:00 AM,0
+9431,Sawmill machine operators,C,01/01/2015 12:00:00 AM,0
+9432,Pulp mill machine operators,C,01/01/2015 12:00:00 AM,0
+9433,Papermaking and finishing machine operators,C,01/01/2015 12:00:00 AM,0
+9434,Other wood processing machine operators,C,01/01/2015 12:00:00 AM,0
+9435,Paper converting machine operators,C,01/01/2015 12:00:00 AM,0
+9436,Lumber graders and other wood processing inspectors and graders,C,01/01/2015 12:00:00 AM,1
+9437,Woodworking machine operators,C,01/01/2015 12:00:00 AM,0
+9441,"Textile fibre and yarn, hide and pelt processing machine operators and workers",C,01/01/2015 12:00:00 AM,0
+9442,"Weavers, knitters and other fabric making occupations",C,01/01/2015 12:00:00 AM,0
+9445,"Fabric, fur and leather cutters",C,01/01/2015 12:00:00 AM,0
+9446,Industrial sewing machine operators,C,01/01/2015 12:00:00 AM,4
+9447,"Inspectors and graders, textile, fabric, fur and leather products manufacturing",C,01/01/2015 12:00:00 AM,0
+9461,"Process control and machine operators, food, beverage and associated products processing",C,01/01/2015 12:00:00 AM,0
+9462,"Industrial butchers and meat cutters, poultry preparers and related workers",C,01/01/2015 12:00:00 AM,0
+9463,Fish and seafood plant workers,C,01/01/2015 12:00:00 AM,2
+9465,"Testers and graders, food, beverage and associated products processing",C,01/01/2015 12:00:00 AM,0
+9471,Plateless printing equipment operators,C,01/01/2015 12:00:00 AM,0
+9472,"Camera, platemaking and other prepress occupations",C,01/01/2015 12:00:00 AM,0
+9473,Binding and finishing machine operators,C,01/01/2015 12:00:00 AM,0
+9474,Photographic and film processors,C,01/01/2015 12:00:00 AM,0
+9521,Aircraft assemblers and aircraft assembly inspectors,C,01/01/2015 12:00:00 AM,0
+9522,"Motor vehicle assemblers, inspectors and testers",C,01/01/2015 12:00:00 AM,0
+9523,"Electronics assemblers, fabricators, inspectors and testers",C,01/01/2015 12:00:00 AM,1
+9524,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",C,01/01/2015 12:00:00 AM,0
+9525,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",C,01/01/2015 12:00:00 AM,0
+9526,Mechanical assemblers and inspectors,C,01/01/2015 12:00:00 AM,0
+9527,"Machine operators and inspectors, electrical apparatus manufacturing",C,01/01/2015 12:00:00 AM,0
+9531,Boat assemblers and inspectors,C,01/01/2015 12:00:00 AM,0
+9532,Furniture and fixture assemblers and inspectors,C,01/01/2015 12:00:00 AM,0
+9533,Other wood products assemblers and inspectors,C,01/01/2015 12:00:00 AM,0
+9534,Furniture finishers and refinishers,C,01/01/2015 12:00:00 AM,2
+9535,"Plastic products assemblers, finishers and inspectors",C,01/01/2015 12:00:00 AM,0
+9536,"Industrial painters, coaters and metal finishing process operators",C,01/01/2015 12:00:00 AM,0
+9537,"Other products assemblers, finishers and inspectors",C,01/01/2015 12:00:00 AM,0
+9611,Labourers in mineral and metal processing,D,01/01/2015 12:00:00 AM,0
+9612,Labourers in metal fabrication,D,01/01/2015 12:00:00 AM,0
+9613,Labourers in chemical products processing and utilities,D,01/01/2015 12:00:00 AM,0
+9614,"Labourers in wood, pulp and paper processing",D,01/01/2015 12:00:00 AM,0
+9615,Labourers in rubber and plastic products manufacturing,D,01/01/2015 12:00:00 AM,0
+9616,Labourers in textile processing,D,01/01/2015 12:00:00 AM,0
+9617,"Labourers in food, beverage and associated products processing",D,01/01/2015 12:00:00 AM,0
+9618,Labourers in fish and seafood processing,D,01/01/2015 12:00:00 AM,0
+9619,"Other labourers in processing, manufacturing and utilities",D,01/01/2015 12:00:00 AM,0
